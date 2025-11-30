@@ -1,0 +1,1209 @@
+vendor,product,max_priority,mean_priority,n_cves
+*,5400rmp_oem_harddrive,,,1
+4d,server,,,2
+abb,2tma310010b0001_firmware,,,2
+abb,800xa,,,3
+abb,800xa_base_system,,,3
+abb,800xa_batch_management,,,1
+abb,800xa_information_management,,,1
+abb,800xa_information_manager,,,1
+abb,800xa_rnrp,,,1
+abb,800xa_system,,,5
+abb,ac500_cpu_firmware,,,2
+abb,ac700f_firmware,,,2
+abb,ao opc,,,1
+abb,arg600a1220na_firmware,,,1
+abb,aspect ent 12_firmware,,,11
+abb,aspect ent 2_firmware,,,17
+abb,automation_builder,,,6
+abb,base_software,,,1
+abb,control_builder_m,,,1
+abb,cs141_firmware,,,1
+abb,device_library_wizard,,,1
+abb,e design,,,2
+abb,flow x\/m_firmware,,,1
+abb,h5692448_g104_firmware,,,1
+abb,infinity_dc_power_plant,,,1
+abb,irb140_firmware,,,1
+abb,mint_workbench,,,2
+abb,mms_server,,,1
+abb,my_control_system,,,1
+abb,mybuildings,,,1
+abb,omnicore_c30_firmware,,,1
+abb,opc_server_for_ac_800m,,,1
+abb,platform_engineering_tools,,,1
+abb,pm554_firmware,,,1
+abb,pni800_firmware,,,3
+abb,rccmd,,,1
+abb,rex640_pcl1_firmware,,,2
+abb,rmc 100_firmware,,,1
+abb,robotware,,,1
+abb,rtu500_firmware,,,1
+abb,smu615_firmware,,,1
+abb,symphony_\+_historian,,,9
+abb,symphony_plus_s\+_operations,,,1
+abb,system_access_point_2.0_firmware,,,1
+abb,terra_ac_wallbox_ul40_firmware,,,2
+abb,txpert_hub_coretec_4_firmware,,,1
+abb,update_manager,,,1
+abb,zenon,,,7
+abinitio,authorization_gateway,,,1
+acuitybrands,nlight_eclypse_system_controller_firmware,,,1
+adtran,sdg_smartos,,,1
+advantech,webaccess,,,1
+advantech,webaccess\/hmi_designer,,,9
+advantech,webaccess\/scada,,,18
+advantech,webaccess_scada,,,1
+advantech,wise 4060lan_firmware,,,1
+afterpay,afterpay_gateway_for_woocommerce,,,1
+agendaless,waitress,,,4
+airangel,hsmx app 25_firmware,,,5
+altn,securitygateway,,,1
+ami,aptio_v,,,8
+ami,megarac_sp x,,,30
+ami,megarac_spx,,,1
+ami,megarac_spx 12,,,1
+amr ical events list_project,amr ical events list,,,1
+amr_shortcode_any_widget_project,amr_shortcode_any_widget,,,1
+anmari,amr_users,,,2
+antonbond,woocommerce_tranzila_payment_gateway,,,1
+apache,dolphinscheduler,,,1
+apache,linkis,,,1
+apache,ozone,,,1
+apiida,api_gateway_manager,,,2
+apollographql,apollo router,,,1
+apollographql,apollo_gateway,,,2
+apple,macos,,,1
+ardereg,sistemas_scada,,,1
+areal topkapi,webserv1,,,1
+arraynetworks,arrayos_ag,,,1
+arubanetworks,arubaos,,,3
+assaabloy,control_id_rhid,,,2
+asterisk,asterisk,,,1
+asus,device_activation,,,1
+asus,rt ax56u_firmware,,,1
+asus,screenpad2_upgrade_tool,,,1
+atoptechnology,se5901_firmware,,,1
+atx,minicmts200a_firmware,,,1
+automationdirect,c more_hmi_ea9_firmware,,,5
+automationdirect,c0 10dd1e d_firmware,,,5
+automationdirect,d0 06dd1_firmware,,,2
+automattic,woocommerce_stripe,,,1
+aveva,aveva_plant_scada,,,1
+aveva,batch_management,,,1
+aveva,intouch_access_anywhere,,,2
+aviatrix,gateway,,,1
+avira,anti malware_sdk,,,1
+awplife,grid_gallery,,,1
+barracuda,email_security_gateway_300_firmware,,,1
+barracuda,t100b_firmware,,,1
+baxter,spectrum_wireless_battery_module_firmware,,,1
+beckhoff,authelia bhf,,,1
+beckhoff,bk9000_firmware,,,1
+beckhoff,cx9020,,,1
+beckhoff,ipc_diagnostics_package,,,3
+beckhoff,ipc_diagnostics_ua_server,,,1
+beckhoff,mdp_package,,,1
+beckhoff,tf6100_firmware,,,1
+beckhoff,twincat_driver,,,1
+beckhoff,twincat_extended_automation_runtime,,,1
+belden,hirschmann_bat c2_firmware,,,1
+belden,hirschmann_hios,,,3
+belden,tofino_xenon_security_appliance_firmware,,,6
+bestpractical,request_tracker,,,2
+bitdefender,endpoint_security_tools,,,1
+bkw,solar log_500_firmware,,,2
+bladex,springblade,,,1
+bosch,video_streaming_gateway,,,2
+boschrexroth,ctrlx_hmi_web_panel_wr2107_firmware,,,3
+broadcom,advanced_secure_gateway,,,5
+broadcom,raid_controller_web_interface,,,2
+broadcom,symantec_messaging_gateway,,,2
+broadcom,symantec_proxysg,,,1
+broadcom,vmware_nsx,,,1
+busbaer,eisbaer_scada,,,7
+byzoro,smart_s45f_firmware,,,9
+carel,pcoweb_card_firmware,,,1
+cassianetworks,xc1000_firmware,,,1
+cellopoint,secure_email_gateway,,,2
+ceph,ceph ansible,,,1
+chinamobile,intelligent_home_gateway_firmware,,,2
+chinamobileltd,gpn2.4p21 c cn_firmware,,,2
+chinatelecom,epon_tianyi_gateway_zxhn_f450_firmware,,,1
+chirpstack,gateway_bridge,,,1
+chirpstack,network_server,,,1
+cilium,cilium,,,3
+ciphermail,gateway,,,2
+circutor,compact_dc s_basic_firmware,,,1
+cisco,adaptive_security_appliance,,,3
+cisco,adaptive_security_appliance_software,,,1
+cisco,aironet_access_point_software,,,1
+cisco,asyncos,,,6
+cisco,cyber_vision,,,1
+cisco,duo_network_gateway,,,1
+cisco,email_security_appliance,,,2
+cisco,firepower_threat_defense,,,1
+cisco,ios,,,3
+cisco,ios_xe,,,5
+cisco,ios_xr,,,6
+cisco,ironport_email_security_appliance,,,1
+cisco,meraki_mx64_firmware,,,1
+cisco,meraki_mx65_firmware,,,5
+cisco,meraki_z4c_firmware,,,2
+cisco,nx os,,,6
+cisco,openh264,,,1
+cisco,packet_data_network_gateway,,,1
+cisco,secure_email_and_web_manager,,,3
+cisco,secure_email_gateway,,,2
+cisco,umbrella_secure_web_gateway,,,2
+citrix,application_delivery_controller,,,1
+citrix,application_delivery_controller_firmware,,,15
+citrix,application_delivery_management,,,1
+citrix,gateway,,,8
+citrix,gateway_firmware,,,3
+citrix,gateway_plug in,,,3
+citrix,gateway_plug in_for_linux,,,1
+citrix,netscaler_application_delivery_controller,,,11
+cloudflare,warp,,,4
+clusterlabs,pcs,,,3
+codesys,control_for_beaglebone,,,1
+codesys,control_for_beaglebone_sl,,,1
+codesys,gateway,,,4
+codesys,opc_da_server,,,1
+codesys,oscat_basic_library,,,1
+codesys,plcwinnt,,,1
+coinmarketstats,bitcoin_\/_altcoin_payment_gateway_for_woocommerce,,,2
+collective.dms.basecontent_project,collective.dms.basecontent,,,1
+combined_charging_system_project,combined_charging_system_firmware,,,1
+commscope,dg3450_firmware,,,2
+compassplus,tranzware_e commerce_payment_gateway,,,2
+contec,conprosys_hmi_system,,,13
+contec,cps mg341 adsc1 111_firmware,,,3
+coredns.io,coredns,,,1
+cosmos cloud,cosmos_server,,,1
+couchbase,couchbase_server,,,1
+couchbase,sync_gateway,,,3
+cryptopp,crypto\+\+,,,2
+dbsoft,sglac,,,1
+dcce,mac1100_plc_firmware,,,6
+dell,edge_gateway_3200_firmware,,,3
+dell,edge_gateway_5000_firmware,,,1
+dell,edge_gateway_5200_firmware,,,1
+dell,intel_management_engine_firmware_update_utility,,,1
+dell,policy_manager_for_secure_connect_gateway,,,6
+dell,secure_connect_gateway,,,10
+dell,supportassist_client_promanage,,,1
+dell,supportassist_for_business_pcs,,,7
+dell,supportassist_for_home_pcs,,,6
+deltaww,dvp32es200r_firmware,,,1
+deltaww,infrasuite_device_master,,,4
+deltaww,wplsoft,,,2
+devolutions,devolutions_gateway,,,1
+deyeinverter,inverter_firmware,,,1
+digi,transport_dr64_firmware,,,1
+digi,transport_wr11_firmware,,,1
+digitalcomtech,syrus_4g_iot_telematics_gateway_firmware,,,1
+dinstar,dag2000 16o_firmware,,,1
+dlink,dap 1325_firmware,,,2
+dlink,dap 2622_firmware,,,1
+dlink,dar 7000_firmware,,,3
+dlink,dsl 3782_firmware,,,2
+dolibarr,dolibarr_erp\/crm,,,2
+dominionvoting,imagecast_x,,,1
+domoticz,mydomoathome,,,1
+dpsoft,parsian_bank_gateway_for_woocommerce,,,1
+dreamfoxmedia,payment_gateway_per_product_for_woocommerce,,,1
+dreamfoxmedia,woocommerce_payment_gateway_per_category,,,1
+duitku,duitku_payment_gateway,,,1
+eaton,easy box e4 ac1_firmware,,,1
+eaton,smp_sg 4260_firmware,,,1
+eclipse,hono,,,1
+edgexfoundry,edgex_foundry,,,1
+electronics.jtekt,kostac_plc_programming_software,,,1
+emerson,controlwave_pac_firmware,,,1
+emerson,data_record_ad,,,2
+emerson,deltav,,,1
+emerson,deltav_distributed_control_system,,,2
+emerson,deltav_distributed_control_system_sq_controller_firmware,,,4
+emerson,deltav_workstation,,,1
+emerson,dixell_xweb 500_firmware,,,2
+emerson,dl8000_firmware,,,1
+emerson,electric\'s_proficy,,,5
+emerson,gc370xa_firmware,,,4
+emerson,openbsi,,,2
+emerson,openenterprise_scada_server,,,5
+emerson,proficy,,,1
+emerson,proficy_machine_edition,,,2
+emerson,roc809_firmware,,,1
+emerson,rosemount_transmitter_interface_software,,,1
+emerson,smart_wireless_gateway_1420_firmware,,,1
+emerson,valvelink,,,1
+emerson,wireless_1410_gateway_firmware,,,7
+emerson,wireless_1420_gateway_firmware,,,1
+emerson,x stream_enhanced_xegp_firmware,,,7
+emerson,xweb300d_evo_firmware,,,1
+ems_project,ems,,,1
+enphase,iq_gateway_firmware,,,5
+epicor,human_capital_management,,,1
+ericsson,evolved_packet_gateway,,,1
+eupago,eupago_gateway_woocommerce,,,1
+express gateway,express gateway_docker_image,,,1
+f5,big ip_access_policy_manager,,,3
+f5,big ip_advanced_firewall_manager,,,1
+facade,ignition,,,3
+fatek,winproladder,,,1
+fernhillsoftware,scada_server,,,1
+filemage,filemage,,,1
+fit2cloud,cloudexplorer_lite,,,1
+forcepoint,cloud_security_gateway,,,4
+forcepoint,data_loss_prevention,,,1
+forcepoint,email_security,,,1
+fortinet,forticlient,,,1
+fortinet,forticlient_emergency_management_server,,,1
+fortinet,forticlient_endpoint_management_server,,,1
+fortinet,forticlient_enterprise_management_server,,,1
+fortinet,forticlientems,,,1
+fortinet,fortisoar,,,1
+freerdp,freerdp,,,1
+freeswitch,freeswitch,,,1
+ge,asset_performance_management_classic,,,2
+ge,cimplicity,,,9
+ge,digital_industrial_gateway_server,,,2
+ge,ifix,,,1
+ge,industrial_gateway_server,,,3
+ge,micom_s1_agile,,,1
+ge,ms_3000_firmware,,,3
+ge,multilin_b30_firmware,,,3
+ge,proficy_cimplicitiy,,,1
+ge,rt430_firmware,,,1
+ge,toolboxst,,,1
+ge,ur_bootloader_binary,,,1
+ge,workstationst,,,1
+getambassador,emissary ingress,,,1
+gira,tks ip gateway_firmware,,,2
+gitlab,gitlab,,,1
+gitpod,gitpod,,,1
+google,android,,,6
+greenwallet,woocommerce_green_wallet_gateway,,,1
+gstreamer_project,gstreamer,,,1
+h mdm,headwind_mdm,,,5
+hashicorp,consul,,,1
+hashicorp,nomad,,,1
+hasthemes,ht_mega,,,1
+haxx,curl,,,1
+hcltech,domino,,,2
+hcltech,notes,,,2
+heimdal_project,heimdal,,,1
+hexagongeospatial,geomedia_webmap,,,1
+hgiga,oaklouds_portal,,,1
+hitachi,linkone,,,4
+hitachi,virtual_file_platform,,,1
+hitachiabb powergrids,ellipse_asset_performance_management,,,1
+hitachiabb powergrids,sdm600_firmware,,,1
+hitachienergy,650connectivitypackage,,,1
+hitachienergy,counterparty_settlement_and_billing,,,1
+hitachienergy,counterparty_settlements_and_billing,,,1
+hitachienergy,ellipse_enterprise_asset_management,,,2
+hitachienergy,esoms,,,2
+hitachienergy,fox615_firmware,,,2
+hitachienergy,foxman un,,,3
+hitachienergy,gms600_firmware,,,1
+hitachienergy,microscada_pro_sys600,,,3
+hitachienergy,microscada_x_sys600,,,6
+hitachienergy,modular_switchgear_monitoring_firmware,,,2
+hitachienergy,relion_650_firmware,,,1
+hitachienergy,relion_670_firmware,,,3
+hitachienergy,rtu500_firmware,,,4
+hitachienergy,rtu520_firmware,,,2
+hitachienergy,sys600_firmware,,,1
+hitachienergy,txpert_hub_coretec_4_firmware,,,3
+hkdigit,payment_gateway_for_telcell,,,1
+hms networks,ewon_flexy_firmware,,,1
+honeywell,alerton_ascent_control_module_firmware,,,2
+honeywell,alerton_bcm web_firmware,,,1
+honeywell,alerton_compass,,,1
+honeywell,alterton_visual_logic_firmware,,,1
+honeywell,c200_firmware,,,3
+honeywell,c300_firmware,,,4
+honeywell,controledge_plc_firmware,,,3
+honeywell,controledge_unit_operations_controller_firmware,,,2
+honeywell,experion_lx_firmware,,,1
+honeywell,experion_server,,,5
+honeywell,hdzp252di_firmware,,,2
+honeywell,inncom_inncontrol_firmware,,,1
+honeywell,iq3xcite_firmware,,,1
+honeywell,matrikon_opc_server,,,1
+honeywell,maxpro_nvr_xe_firmware,,,2
+honeywell,mb secure_firmware,,,1
+honeywell,mpa2_firmware,,,1
+honeywell,niagara_framework,,,1
+honeywell,notifier_webserver,,,2
+honeywell,onewireless_network_wireless_device_manager_firmware,,,3
+honeywell,opc_ua_tunneller,,,4
+honeywell,pm43_firmware,,,3
+honeywell,prowatch,,,1
+honeywell,safety_manager_firmware,,,4
+honeywell,saia_pg5_controls_suite,,,9
+honeywell,softmaster,,,2
+honeywell,trend_iq412_firmware,,,1
+honeywell,win pak,,,3
+hornerautomation,cscape,,,3
+hornerautomation,cscape_envision_rv,,,3
+hornerautomation,cscape_envisionrv,,,1
+hp,260_g4_desktop_mini_firmware,,,1
+hp,348_g4_firmware,,,1
+hp,icewall_sso_dfw,,,1
+hp,icewall_sso_dgfw,,,1
+hp,t430_thin_client_firmware,,,1
+huawei,emui,,,1
+hyland,onbase,,,1
+hyperledger,fabric,,,1
+ibm,application_gateway,,,3
+ibm,b2b_advanced_communications,,,2
+ibm,cics_transaction_gateway,,,3
+ibm,datapower_gateway,,,21
+ibm,iot_messagesight,,,1
+ibm,security_verify_bridge_directory_sync,,,2
+ibm,sterling_b2b_integrator,,,13
+ibm,sterling_file_gateway,,,21
+ibm,verify_gateway,,,8
+ibm,voice_gateway,,,1
+iboss,secure_web_gateway,,,1
+iclinks,scadaflex_ii_firmware,,,1
+iconics,analytix,,,1
+iconics,genesis64,,,10
+iconics,mobilehmi,,,1
+idearespa,reftree,,,1
+idec,data_file_manager,,,2
+idec,kit fc6a 24 kc_firmware,,,1
+idec,microsmart_fc6a_firmware,,,2
+idec,windldr,,,1
+ignition_error_pages_project,ignition_error_pages,,,1
+ikea,tradfri_gateway_e1526_firmware,,,1
+inductiveautomation,ignition,,,28
+inductiveautomation,ignition_gateway,,,5
+inea,me_rtu_firmware,,,3
+ingeteam,ingepac_da3451_firmware,,,1
+ingeteam,ingepac_fc5066_firmware,,,1
+inohom,home_manager_gateway,,,1
+integrationobjects,opc_ua_server_toolkit,,,1
+intel,bmc_firmware,,,9
+intel,hid_event_filter_driver,,,1
+intel,nuc_10_performance_kit_nuc10i7fnhn_firmware,,,1
+intel,nuc_11_performance_kit_nuc11pahi30z_firmware,,,1
+intel,nuc_kit_wireless_adapter_driver_installer,,,1
+intel,nuc_m15_laptop_kit_lapbc510_firmware,,,2
+intel,usb_type_c_power_delivery_controller,,,1
+intelliants,subrion,,,1
+iowacomputergurus,aspnetcore.utilities.cloudstorage,,,1
+ipack,scada_automation,,,1
+ipear_project,ipear,,,1
+istio,istio,,,5
+istio operator_project,istio operator,,,1
+ivanti,connect_secure,,,4
+jaycar,la5570_firmware,,,3
+jazzcash,woocommerce_jazzcash_gateway,,,1
+jetbrains,jetbrains_gateway,,,1
+jhipster,generator jhipster,,,1
+jtekt,gc a22w cw_firmware,,,4
+jtekt,kostac_plc,,,4
+jtekt,kostac_plc_programming_software,,,3
+jtekt,pc10g cpu_firmware,,,1
+jtekt,pc10g cpu_tcc 6353_firmware,,,2
+juniper,junos,,,8
+juniper,junos_os_evolved,,,1
+kepware,kepserverex,,,1
+knovos,discovery,,,2
+konghq,docker kong,,,1
+konghq,kong_gateway,,,1
+koyoele,remote_gc,,,1
+kuka,visual_components_network_license_server,,,1
+landisgyr,e850_firmware,,,1
+laquisscada,scada,,,2
+lcds,laquis_scada,,,3
+level1,wbr 6012_firmware,,,1
+lg,webos,,,1
+libmodbus,libmodbus,,,3
+lightxun,iptv_gateway,,,1
+linux,linux_kernel,,,21
+linuxfoundation,ceph,,,1
+linuxfoundation,the_update_framework,,,1
+litestar,litestar,,,1
+ls electric,xbc dn32u_firmware,,,3
+ls electric,xg5000,,,1
+machinesense,feverwarn_firmware,,,1
+mayan edms,mayan_edms,,,1
+maykinmedia,open_forms,,,1
+mcafee,content_security_reporter,,,1
+mcafee,data_loss_prevention_discover,,,1
+mcafee,data_loss_prevention_endpoint,,,1
+mcafee,email_gateway,,,1
+mcafee,web_gateway,,,7
+meetecho,janus,,,8
+mfasoft,secure_authentication_server,,,1
+mi,miui_firmware,,,1
+microfocus,secure_messaging_gateway,,,1
+microsoft,azure_data_box_gateway,,,1
+microsoft,on prem_data_gateway,,,2
+microsoft,windows_10,,,6
+microsoft,windows_10_1507,,,2
+microsoft,windows_server_2008,,,2
+microsoft,windows_server_2012,,,7
+microsoft,windows_server_2016,,,4
+minio,minio,,,1
+mitel,micollab,,,3
+mitel,mivoice_connect,,,5
+mitsubishi,g 50a_firmware,,,2
+mitsubishi,gt27_firmware,,,1
+mitsubishi,melsec_iq r_r00_cpu_firmware,,,4
+mitsubishi,melsec_iq r_rd81mes96n_firmware,,,1
+mitsubishielectric,c_controller_interface_module_utility,,,1
+mitsubishielectric,c_controller_module_setting_and_monitoring_tool,,,2
+mitsubishielectric,coreos,,,6
+mitsubishielectric,cpu_module_logging_configuration_tool,,,1
+mitsubishielectric,cr800 q_firmware,,,1
+mitsubishielectric,cw_configurator,,,1
+mitsubishielectric,ezsocket,,,4
+mitsubishielectric,fx3g 14_mr\/ds_firmware,,,1
+mitsubishielectric,fx3u 16mr\/es_firmware,,,1
+mitsubishielectric,fx3u 32mt\/es_firmware,,,1
+mitsubishielectric,fx3u enet l_firmware,,,1
+mitsubishielectric,fx3u enet_firmware,,,2
+mitsubishielectric,fx5 enet\/ip_firmware,,,4
+mitsubishielectric,fx5u 32mt\/es_firmware,,,1
+mitsubishielectric,fx5u 80mt\/ess_firmware,,,1
+mitsubishielectric,fx5uc 32mr\/ds ts_firmware,,,1
+mitsubishielectric,fx5uc_firmware,,,6
+mitsubishielectric,gc enet com_firmware,,,1
+mitsubishielectric,got2000_gt27_firmware,,,1
+mitsubishielectric,gt2107 wtbd_firmware,,,1
+mitsubishielectric,gt21_firmware,,,1
+mitsubishielectric,gt_designer3,,,1
+mitsubishielectric,gt_softgot2000,,,3
+mitsubishielectric,gx_works2,,,1
+mitsubishielectric,gx_works3,,,12
+mitsubishielectric,iu1 1m20 d_firmware,,,6
+mitsubishielectric,mac 557if e_firmware,,,1
+mitsubishielectric,mac 587if e_firmware,,,1
+mitsubishielectric,mc_works,,,4
+mitsubishielectric,mc_works32,,,1
+mitsubishielectric,melsec_iq fx5u 32mr\/ds_firmware,,,1
+mitsubishielectric,melsec_iq fx5u 32mt\/es_firmware,,,2
+mitsubishielectric,melsec_iq r00cpu_firmware,,,1
+mitsubishielectric,melsec_iq r_firmware,,,1
+mitsubishielectric,melsec_iq rj71eip91_firmware,,,6
+mitsubishielectric,melsec_ws0 geth00200_firmware,,,2
+mitsubishielectric,mi5122 vw_firmware,,,1
+mitsubishielectric,q03udecpu_firmware,,,1
+mitsubishielectric,qj71mes96_firmware,,,1
+mitsubishielectric,r00cpu_firmware,,,2
+mitsubishielectric,r08sfcpu_firmware,,,4
+mitsubishielectric,r12ccpu v_firmware,,,1
+mitsubishielectric,rh 12sdh55_firmware,,,1
+mitsubishielectric,rj71en71_firmware,,,1
+mnapoli,bref,,,1
+mobile industrial robots,mir100_firmware,,,1
+mobileiron,mobile\@work,,,1
+mobyproject,moby,,,2
+modbustools,modbus_poll,,,1
+modbustools,modbus_slave,,,2
+mokosmart,mkgw1_gateway_firmware,,,1
+motorola,ace1000_firmware,,,4
+motorola,moscad_ip_gateway_firmware,,,1
+moxa,edr g902 t_firmware,,,1
+moxa,edr g903_firmware,,,2
+moxa,eds 4008_firmware,,,1
+moxa,eds g503_firmware,,,2
+moxa,eds g516e_firmware,,,6
+moxa,iologik_2512_firmware,,,1
+moxa,iologik_e1210_firmware,,,2
+moxa,iologik_e4200_firmware,,,4
+moxa,mds g516e_firmware,,,1
+moxa,mgate_5105 mb eip_firmware,,,1
+moxa,mgate_mb3170i_firmware,,,1
+moxa,mgate_mb3180_firmware,,,3
+moxa,miineport_e1_firmware,,,1
+moxa,mxsecurity,,,9
+moxa,mxview,,,9
+moxa,mxview_one,,,3
+moxa,nport_5100a_firmware,,,1
+moxa,nport_5110_firmware,,,2
+moxa,nport_5150ai m12 ct t_firmware,,,1
+moxa,nport_6150 t_firmware,,,1
+moxa,nport_ia5150a_firmware,,,4
+moxa,nport_iaw5000a i\/o_firmware,,,7
+moxa,nport_iaw5150a 6i\/o_firmware,,,4
+moxa,nport_w2150a_firmware,,,1
+moxa,oncell_g3150a lte_firmware,,,2
+moxa,oncell_g3470a lte eu t_firmware,,,1
+moxa,oncell_g3470a lte us t_firmware,,,3
+moxa,pt 7528 24tx hv_firmware,,,6
+moxa,sds 3008_firmware,,,6
+moxa,tn 5900_firmware,,,11
+moxa,tn 5916 wv t_firmware,,,1
+moxa,uc 2101 lx_firmware,,,2
+moxa,uc 8580 t lx_firmware,,,1
+moxa,vport_06ec 2v26m_firmware,,,5
+moxa,vport_461_firmware,,,1
+moxa,wac 2004_firmware,,,2
+mozilla,firefox,,,2
+mozilla,nss,,,1
+mozilla,thunderbird,,,2
+mozilla,webthings_gateway,,,2
+mysyngeryss,husky_rtu_6049 e70_firmware,,,2
+mz automation,libiec61850,,,5
+ncsist,mobile_device_manager,,,1
+netapp,active_iq_unified_manager,,,1
+netapp,ontap,,,1
+netapp,virtual_desktop_service,,,1
+netentsec,application_security_gateway,,,29
+netentsec,application_security_gateway_firmware,,,2
+netentsec,ns asg_firmware,,,1
+ni,veristand,,,2
+nicmx,fort validator,,,1
+nmfc,power_line_communications,,,1
+node opcua_project,node opcua,,,1
+nokia,1350_optical_management_system,,,6
+northgrid,proself,,,3
+nvidia,bmc,,,1
+nvidia,sbios,,,1
+octobercms,october,,,1
+oisf,suricata,,,1
+okfn,ckan,,,1
+okta,access_gateway,,,1
+omron,automation_software_sysmac_studio,,,1
+omron,cj1g cpu45p_firmware,,,1
+omron,cj2m cpu35_firmware,,,1
+omron,cp1l el20dr d_firmware,,,1
+omron,cs1w eip21_firmware,,,1
+omron,cx drive,,,2
+omron,cx motion mch_firmware,,,1
+omron,cx motion_pro,,,1
+omron,cx one,,,5
+omron,cx position,,,4
+omron,cx programmer,,,18
+omron,cx supervisor,,,1
+omron,nj101 1000_firmware,,,1
+omron,nx701 1600_firmware,,,4
+omron,plc_cj1_firmware,,,1
+omron,sysmac_cj2h cpu64 eip_firmware,,,1
+omron,sysmac_cj2h cpu64_firmware,,,1
+omron,sysmac_cs1_firmware,,,3
+omron,sysmac_studio,,,1
+onlyoffice,workspace,,,1
+opc_ua_stack_project,opc_ua_stack,,,1
+opcfoundation,ua .net legacy,,,1
+opcfoundation,ua .netstandard,,,3
+opcfoundation,ua java,,,1
+opcfoundation,ua_.net_standard_stack,,,6
+opcfoundation,ua_java_legacy,,,1
+openatom,openharmony,,,2
+openbsd,openssh,,,1
+openkm,openkm,,,1
+opennds,opennds,,,1
+openplcproject,openplc_v3_firmware,,,1
+openssl,openssl,,,1
+opentext,opentext_extended_ecm,,,1
+opsramp,gateway,,,1
+opswat,metadefender,,,1
+oracle,bi_publisher,,,1
+oracle,cloud_infrastructure_storage_gateway,,,4
+oracle,customer_relationship_management_gateway_for_mobile_devices,,,3
+oracle,database,,,1
+oracle,database_server,,,3
+oracle,enterprise_manager_base_platform,,,1
+oracle,hospitality_cruise_materials_management,,,1
+oracle,peoplesoft_enterprise,,,1
+oracle,peoplesoft_enterprise_hcm_candidate_gateway,,,1
+oracle,peoplesoft_enterprise_human_capital_management_candidate_gateway,,,1
+oracle,primavera_gateway,,,1
+oracle,secure_global_desktop,,,1
+oracle,storage_cloud_software_appliance,,,2
+outbackpower,mojave_inverter_oghi8048a_firmware,,,1
+ovarro,twinsoft,,,2
+ozeki,ozeki_ng_sms_gateway,,,11
+palletsprojects,quart,,,1
+paloaltonetworks,globalprotect,,,2
+paloaltonetworks,pan os,,,9
+papaki,piraeus_bank_woocommerce_payment_gateway,,,1
+payflex,payment_gateway,,,1
+payhere,payhere_payment_gateway,,,1
+payplus,payplus_payment_gateway,,,2
+paytm,payment_gateway,,,2
+pcs,dexicon_enterprise,,,1
+pepperl fuchs,wha gw f2d2 0 as z2 eth_firmware,,,8
+pexip,pexip_infinity,,,1
+phoenixcontact,automationworx_software_suite,,,1
+phoenixcontact,fl_comserver_uni_232\/422\/485_firmware,,,1
+phoenixcontact,ilc1x0_firmware,,,1
+pimcore,pimcore,,,2
+progress,moveit_gateway,,,1
+progress,moveit_transfer,,,1
+progress,openedge,,,1
+prosysopc,ua_modbus_server,,,1
+proxmox,backup_server,,,1
+proxmox,proxmox_mail_gateway,,,2
+pulsesecure,pulse_connect_secure,,,3
+pulsesecure,pulse_secure_desktop_client,,,3
+puppet,puppet,,,1
+qualcomm,agatti_firmware,,,1
+qualcomm,apq8009_firmware,,,1
+quest analytics,iqcrm,,,1
+ramp,altimeter,,,1
+rapidscada,rapid_scada,,,10
+redhat,3scale_api_management,,,1
+redhat,ansible,,,1
+redhat,ansible_automation_platform,,,2
+redhat,ansible_engine,,,1
+redhat,ceph,,,1
+redhat,ceph_storage,,,1
+redhat,coreos installer,,,1
+redhat,etcd,,,2
+redhat,ignition,,,1
+redhat,openshift_container_platform,,,1
+redlion,crimson,,,1
+redlioncontrols,st ipm 6350_firmware,,,2
+revolut,revolut_gateway_for_woocommerce,,,1
+rockwellautomation,1756 en2f_series_a_firmware,,,1
+rockwellautomation,1756 en2t_series_a_firmware,,,1
+rockwellautomation,1756 en4tr_firmware,,,1
+rockwellautomation,2800c_optixpanel_compact_firmware,,,1
+rockwellautomation,5015 aenftxt_firmware,,,2
+rockwellautomation,allen bradley_flex_io_1794 aent\/b_firmware,,,1
+rockwellautomation,arena,,,32
+rockwellautomation,armor_compact_guardlogix_5370_firmware,,,1
+rockwellautomation,armor_powerflex_firmware,,,1
+rockwellautomation,armorstart_st_284ee_firmware,,,10
+rockwellautomation,compactlogix_5370_firmware,,,1
+rockwellautomation,compactlogix_5380_firmware,,,3
+rockwellautomation,compactlogix_5480_firmware,,,1
+rockwellautomation,connected_components_workbench,,,3
+rockwellautomation,controllogix_5570_controller_firmware,,,1
+rockwellautomation,controllogix_5580_firmware,,,3
+rockwellautomation,drivetools_add on_profiles,,,1
+rockwellautomation,enhanced_him,,,1
+rockwellautomation,factorytalk_alarms_and_events,,,1
+rockwellautomation,factorytalk_assetcentre,,,9
+rockwellautomation,factorytalk_linx,,,1
+rockwellautomation,factorytalk_policy_manager,,,5
+rockwellautomation,factorytalk_services_platform,,,7
+rockwellautomation,factorytalk_transaction_manager,,,1
+rockwellautomation,factorytalk_vantagepoint,,,3
+rockwellautomation,factorytalk_view,,,9
+rockwellautomation,flex_i\/o_1794 aent,,,2
+rockwellautomation,flex_i\/o_1794 aent\/b_firmware,,,2
+rockwellautomation,flex_io_1794 aent\/b_firmware,,,1
+rockwellautomation,isagraf_workbench,,,3
+rockwellautomation,kinetix_5500_firmware,,,1
+rockwellautomation,kinetix_5700_firmware,,,1
+rockwellautomation,micrologix_1100_b_firmware,,,1
+rockwellautomation,micrologix_1100_firmware,,,3
+rockwellautomation,micrologix_1400_a_firmware,,,4
+rockwellautomation,micrologix_1400_firmware,,,2
+rockwellautomation,modbus_tcp_server_add_on_instructions,,,1
+rockwellautomation,pavilion8,,,3
+rockwellautomation,powerflex_527_ac_drives_firmware,,,3
+rockwellautomation,powermonitor_1000_firmware,,,1
+rockwellautomation,rslinx,,,1
+rockwellautomation,rslinx_classic,,,1
+rockwellautomation,studio_5000_logix_designer,,,1
+rockwellautomation,studio_5000_logix_emulate,,,1
+rockwellautomation,thinmanager,,,12
+rockwellautomation,thinmanager_thinserver,,,3
+royal elementor addons,royal_elementor_addons,,,1
+rtautomation,460_series_firmware,,,1
+ruckuswireless,r310_firmware,,,10
+ruijie,nbr2600s_firmware,,,1
+ruijie,nbr3000d e_firmware,,,1
+ruijienetworks,rg eg350_firmware,,,1
+ruijienetworks,rg nbr2100g e_firmware,,,2
+s3india,husky_rtu_6049 e70_firmware,,,1
+sae it,net line_fw 50_firmware,,,2
+saleswonder,webinar_ignition,,,1
+samsung,knox_cloud_services,,,1
+sangoma,restapps,,,1
+sap,graphical_user_interface,,,1
+sap,netweaver_abap,,,3
+sap,netweaver_application_server_java,,,1
+sap,netweaver_master_data_management,,,1
+sas,environment_manager,,,1
+sas,go_rpm_utils,,,1
+sas,integration_technologies,,,1
+sas,sas\/intrnet,,,1
+sas,visual_analytics,,,1
+sas,web_administration_interface,,,1
+sas,web_report_studio,,,1
+scada lts,scada lts,,,3
+schneider electric,140noe77101_firmware,,,1
+schneider electric,5500ac2_firmware,,,2
+schneider electric,accusine_pcsp_pfvp_firmware,,,1
+schneider electric,accutech_manager,,,1
+schneider electric,acti9_powertag_link_c_\(a9xelc10 a\)_firmware,,,1
+schneider electric,acti9_smartlink_si_d_firmware,,,1
+schneider electric,andover_continuum_9680_firmware,,,3
+schneider electric,apc_easy_ups_online_monitoring_software,,,7
+schneider electric,apc_easy_ups_online_software,,,2
+schneider electric,c bus_toolkit,,,8
+schneider electric,c gate_server,,,1
+schneider electric,canbrass,,,1
+schneider electric,clearscada,,,6
+schneider electric,conext_combox_firmware,,,4
+schneider electric,connexium_network_manager,,,1
+schneider electric,custom_reports,,,8
+schneider electric,data_center_expert,,,4
+schneider electric,easergy_builder,,,6
+schneider electric,easergy_builder_installer,,,1
+schneider electric,easergy_p141_firmware,,,1
+schneider electric,easergy_p3_firmware,,,1
+schneider electric,easergy_p5_firmware,,,5
+schneider electric,easergy_studio,,,2
+schneider electric,easergy_t300_firmware,,,24
+schneider electric,easy_ups_online_monitoring_software,,,1
+schneider electric,eb450_firmware,,,2
+schneider electric,ecostruxure_building_operation,,,1
+schneider electric,ecostruxure_control_expert,,,23
+schneider electric,ecostruxure_cybersecurity_admin_expert,,,2
+schneider electric,ecostruxure_energy_expert,,,3
+schneider electric,ecostruxure_foxboro_dcs_control_core_services,,,5
+schneider electric,ecostruxure_geo_scada_expert_2019,,,3
+schneider electric,ecostruxure_it_gateway,,,2
+schneider electric,ecostruxure_machine_expert,,,3
+schneider electric,ecostruxure_machine_expert_ _hvac,,,1
+schneider electric,ecostruxure_operator_terminal_expert,,,12
+schneider electric,ecostruxure_power_build_ _rapsody,,,2
+schneider electric,ecostruxure_power_commission,,,4
+schneider electric,ecostruxure_power_monitoring_expert,,,9
+schneider electric,enterprise_server_installer,,,1
+schneider electric,evc1s22p4_firmware,,,2
+schneider electric,evlink_city_evc1s22p4_firmware,,,18
+schneider electric,evlink_home_firmware,,,1
+schneider electric,foxrtu_station,,,1
+schneider electric,galaxy_vl_firmware,,,1
+schneider electric,geo_scada_mobile,,,1
+schneider electric,gp pro_ex,,,1
+schneider electric,gp pro_ex_firmware,,,1
+schneider electric,guicon,,,3
+schneider electric,hmibmuhi29d2801_firmware,,,1
+schneider electric,hmibscea53d1edb_firmware,,,2
+schneider electric,igss_dashboard,,,1
+schneider electric,insighthome_firmware,,,1
+schneider electric,interactive_graphical_scada_system,,,39
+schneider electric,interactive_graphical_scada_system_data_collector,,,6
+schneider electric,interactive_graphical_scada_system_data_server,,,8
+schneider electric,ion8650_firmware,,,2
+schneider electric,mcsesp083f23g0_firmware,,,1
+schneider electric,merten_instabus_tastermodul_1fach_system_m_firmware,,,1
+schneider electric,modbus_driver_suite,,,1
+schneider electric,modicon_m218_firmware,,,3
+schneider electric,modicon_m221_firmware,,,5
+schneider electric,modicon_m241_firmware,,,2
+schneider electric,modicon_m258_firmware,,,1
+schneider electric,modicon_m340_bmx_p34 2010_firmware,,,1
+schneider electric,modicon_m340_bmxp341000,,,4
+schneider electric,modicon_m340_bmxp341000_firmware,,,10
+schneider electric,modicon_m340_bmxp342020_firmware,,,4
+schneider electric,modicon_m340_bmxp3420302_firmware,,,1
+schneider electric,modicon_m340_firmware,,,1
+schneider electric,modicon_m580_bmep584040_firmware,,,3
+schneider electric,modicon_m580_firmware,,,2
+schneider electric,modicon_tsxety4103_firmware,,,3
+schneider electric,modicon_x80_bmxnor0200h_rtu_firmware,,,1
+schneider electric,mtn6501 0001_firmware,,,2
+schneider electric,netbotz_355_firmware,,,3
+schneider electric,network_management_card_2_firmware,,,6
+schneider electric,opc_factory_server,,,1
+schneider electric,opc_ua_module_for_m580_firmware,,,7
+schneider electric,operator_terminal_expert_runtime,,,1
+schneider electric,os_loader,,,1
+schneider electric,pmepxm0100_prosoft_configurator,,,1
+schneider electric,powerlogic_egx100_firmware,,,4
+schneider electric,powerlogic_hdpm6000_firmware,,,1
+schneider electric,powerlogic_ion7400_firmware,,,4
+schneider electric,powerlogic_ion8650_firmware,,,1
+schneider electric,powerlogic_ion9000_firmware,,,1
+schneider electric,powerlogic_ion_setup_firmware,,,1
+schneider electric,powerlogic_p5_firmware,,,1
+schneider electric,powerlogic_pm5341_firmware,,,1
+schneider electric,powerlogic_pm5560_firmware,,,2
+schneider electric,pro face_gp pro_ex,,,1
+schneider electric,rack_power_distribution_unit_with_network_management_card_2_firmware,,,1
+schneider electric,ritto_wiser_door,,,1
+schneider electric,sage_rtu_firmware,,,6
+schneider electric,scadapack_312e_firmware,,,1
+schneider electric,scadapack_7x_remote_connect,,,4
+schneider electric,scadapack_workbench,,,1
+schneider electric,scadapack_x70_security_administrator,,,1
+schneider electric,smt_series_1015_ups_firmware,,,3
+schneider electric,software_update,,,1
+schneider electric,software_update_utility,,,1
+schneider electric,somove,,,1
+schneider electric,sosafe_configurable,,,1
+schneider electric,spacelogic_as b_firmware,,,2
+schneider electric,spacelogic_c bus_home_controller_firmware,,,1
+schneider electric,spacelogic_c bus_toolkit,,,1
+schneider electric,spacelynk_firmware,,,15
+schneider electric,struxureware_data_center_expert,,,15
+schneider electric,t200i_firmware,,,1
+schneider electric,tricon_tcm_4351_firmware,,,2
+schneider electric,triconex_model_3009_mp_firmware,,,6
+schneider electric,tristation_1131,,,3
+schneider electric,ulti_zigbee_installation_toolkit,,,1
+schneider electric,vijeo_designer,,,5
+schneider electric,webreports,,,5
+schneider electric,whc 5918a_firmware,,,1
+schneider electric,wiser_smart_eer21000_firmware,,,6
+schneider electric,zelio_soft_2,,,1
+school_dormitory_management_system_project,school_dormitory_management_system,,,1
+se,ecostruxure_operator_terminal_expert,,,1
+sealevel,seaconnect_370w_firmware,,,1
+secheron,sepcos_control_and_protection_relay_firmware,,,1
+selinc,sel 2241_rtac_module_firmware,,,19
+selinc,sel 3350_firmware,,,1
+selinc,sel 411l_firmware,,,4
+selinc,sel 451_firmware,,,5
+selinc,sel 5030_acselerator_quickset,,,5
+selinc,sel 5033_acselerator_real time_automation_controller,,,1
+selinc,sel 5036_acselerator_bay_screen_builder,,,1
+selinc,sel 5037_sel_grid_configurator,,,4
+serenityos,serenityos,,,1
+siedle,sg_150 0_firmware,,,3
+siemens,6bk1602 0aa12 0tp0_firmware,,,1
+siemens,6ed1052 1md08 0ba1_firmware,,,1
+siemens,6es7412 2ek07 0ab0_firmware,,,2
+siemens,6gk1411 1ac00_firmware,,,7
+siemens,6gk5204 0ba00 2mb2_firmware,,,6
+siemens,6gk5205 3bb00 2ab2_firmware,,,7
+siemens,6gk5622 2gs00 2ac2_firmware,,,1
+siemens,6gk6108 4am00 2ba2_firmware,,,3
+siemens,6gk7243 8rx30 0xe0_firmware,,,1
+siemens,6md85_firmware,,,1
+siemens,7kg8500 0aa00 0aa0_firmware,,,13
+siemens,7kg9501 0aa01 2aa1_firmware,,,5
+siemens,apogee_mbc_\(ppc\)_\(p2_ethernet\)_firmware,,,1
+siemens,automation_license_manager,,,4
+siemens,biograph_horizon_pet\/ct_systems_firmware,,,1
+siemens,brownfield_connectivity_gateway,,,1
+siemens,capital_vstar,,,13
+siemens,cerberus_dms,,,2
+siemens,cerberus_pro_en_engineering_tool,,,1
+siemens,climatix_pol908_firmware,,,2
+siemens,climatix_pol909_firmware,,,4
+siemens,comos,,,10
+siemens,coreshield_one way_gateway,,,1
+siemens,cp 8000_master_module_with_i\/o_ 25\/\+70_firmware,,,2
+siemens,cp 8021_master_module_firmware,,,1
+siemens,cp 8031_firmware,,,1
+siemens,cp 8050_firmware,,,2
+siemens,cpci85_firmware,,,3
+siemens,cpu_1504d_tf_firmware,,,1
+siemens,dca_vantage_analyzer_firmware,,,2
+siemens,desigo_cc,,,1
+siemens,desigo_consumption_control,,,1
+siemens,desigo_dxr2_firmware,,,4
+siemens,desigo_insight,,,3
+siemens,desigo_pxc5_firmware,,,4
+siemens,desigo_pxm30 1_firmware,,,7
+siemens,digsi_4,,,1
+siemens,dk_standard_ethernet_controller_evaluation_kit_firmware,,,1
+siemens,efibootguard,,,1
+siemens,en100_ethernet_module_dnp3_firmware,,,1
+siemens,en100_ethernet_module_dnp3_ip_firmware,,,1
+siemens,industrial_edge_management,,,2
+siemens,intermesh_7177_hybrid_2.0_subscriber,,,4
+siemens,jt2go,,,142
+siemens,jt_open,,,1
+siemens,jt_open_toolkit,,,29
+siemens,jt_utilities,,,3
+siemens,license_management_utility,,,1
+siemens,location_intelligence,,,4
+siemens,logo\!_8_bm_firmware,,,15
+siemens,logo\!_cmr2020_firmware,,,1
+siemens,logo\!_soft_comfort,,,2
+siemens,medicalis_workflow_orchestrator,,,1
+siemens,mendix,,,2
+siemens,mendix_email_connector,,,1
+siemens,mendix_workflow_commons,,,1
+siemens,modelsim,,,4
+siemens,nucleus_net,,,8
+siemens,nx_1980,,,2
+siemens,omnivise_t3000_application_server,,,4
+siemens,opcenter_execution_core,,,4
+siemens,opcenter_execution_discrete,,,3
+siemens,opcenter_quality,,,7
+siemens,openpcs_7,,,2
+siemens,openv2g,,,1
+siemens,ozw672_firmware,,,1
+siemens,pads_viewer,,,20
+siemens,parasolid,,,23
+siemens,plm_help_server,,,1
+siemens,polarion_alm,,,6
+siemens,polarion_subversion_webclient,,,2
+siemens,ps\/iges_parasolid_translator,,,11
+siemens,pxc00 e96.a_firmware,,,1
+siemens,q200_firmware,,,2
+siemens,qms_automotive,,,10
+siemens,ruggedcom_crossbow,,,16
+siemens,ruggedcom_rm1224_firmware,,,3
+siemens,ruggedcom_rm1224_lte\(4g\)_eu_firmware,,,12
+siemens,ruggedcom_ros,,,11
+siemens,ruggedcom_ros_i800,,,1
+siemens,ruggedcom_rox_mx5000_firmware,,,14
+siemens,ruggedcom_rox_rx1400_firmware,,,3
+siemens,ruggedcom_rox_rx1500_firmware,,,1
+siemens,rwg1.m12_firmware,,,1
+siemens,scalance_lpe9403_firmware,,,16
+siemens,scalance_m 800_firmware,,,3
+siemens,scalance_w1788 2ia_m12_firmware,,,3
+siemens,scalance_w780_firmware,,,1
+siemens,scalance_x200 4p_irt_firmware,,,5
+siemens,scalance_x200 4pirt_firmware,,,4
+siemens,scalance_x204 2_firmware,,,2
+siemens,scalance_x302 7eec_firmware,,,9
+siemens,scalance_xb208_\(e\/ip\)_firmware,,,1
+siemens,scalance_xm 400_firmware,,,1
+siemens,scalance_xm408 4c_firmware,,,1
+siemens,scalance_xr324 12m_firmware,,,1
+siemens,sentron_powermanager_3,,,1
+siemens,sicam_a8000_cp 8000_firmware,,,2
+siemens,sicam_a8000_cp 8031_firmware,,,1
+siemens,sicam_a8000_cp 8050_firmware,,,1
+siemens,sicam_a8000_firmware,,,1
+siemens,sicam_gridedge_essential,,,4
+siemens,sicam_gridedge_essential_arm,,,1
+siemens,sicam_mmu_firmware,,,9
+siemens,sicam_pas\/pqs,,,5
+siemens,sicam_pq_analyzer_firmware,,,1
+siemens,sicam_toolbox_ii,,,5
+siemens,siemens_opc_ua_modeling_editor,,,1
+siemens,simaris_configuration,,,1
+siemens,simatic_automatic_tool,,,1
+siemens,simatic_batch,,,1
+siemens,simatic_cfu_diq_firmware,,,1
+siemens,simatic_cloud_connect_7_cc712_firmware,,,1
+siemens,simatic_cn_4100,,,6
+siemens,simatic_cn_4100_firmware,,,2
+siemens,simatic_cp_1242 7_v2_firmware,,,6
+siemens,simatic_cp_1543 1_firmware,,,2
+siemens,simatic_cp_1604_firmware,,,2
+siemens,simatic_cp_343 1_firmware,,,2
+siemens,simatic_cp_442 1_rna_firmware,,,1
+siemens,simatic_drive_controller_cpu_1504d_tf_firmware,,,5
+siemens,simatic_driver_controller_firmware,,,1
+siemens,simatic_easie_core_package,,,2
+siemens,simatic_easie_pcs_7_skill,,,1
+siemens,simatic_energy_manager_basic,,,3
+siemens,simatic_et_200_sp_open_controller_cpu_1515sp_pc2_firmware,,,1
+siemens,simatic_et_200sp_open_controller_firmware,,,1
+siemens,simatic_hmi_basic_panels_1st_generation,,,1
+siemens,simatic_hmi_basic_panels_2nd_generation_firmware,,,1
+siemens,"simatic_hmi_comfort_outdoor_panels_7\""_firmware",,,1
+siemens,simatic_hmi_comfort_panels_firmware,,,2
+siemens,simatic_hmi_united_comfort_panels_firmware,,,1
+siemens,simatic_ipc647d_firmware,,,1
+siemens,simatic_mv420_firmware,,,1
+siemens,simatic_mv440_sr_firmware,,,1
+siemens,simatic_mv540_h_firmware,,,5
+siemens,simatic_net_cp_343 1_advanced_firmware,,,1
+siemens,simatic_net_pc_software,,,1
+siemens,simatic_pcs_7,,,9
+siemens,simatic_pcs_7_firmware,,,1
+siemens,simatic_pcs_firmware,,,1
+siemens,simatic_pcs_neo,,,6
+siemens,simatic_process_control_system_neo,,,1
+siemens,simatic_process_historian_2013,,,1
+siemens,simatic_rf166c_firmware,,,1
+siemens,simatic_rf360r_firmware,,,6
+siemens,simatic_rtls_locating_manager,,,6
+siemens,simatic_s7 1200_cpu_firmware,,,1
+siemens,simatic_s7 1500_software_controller,,,1
+siemens,simatic_s7 200_smart_sr_cpu_firmware,,,1
+siemens,simatic_s7 300_cpu_312_firmware,,,1
+siemens,simatic_s7 400h_v6_firmware,,,1
+siemens,simatic_s7 plcsim,,,3
+siemens,simatic_s7 plcsim_advanced_firmware,,,4
+siemens,simatic_step_7,,,2
+siemens,simatic_wincc_oa,,,1
+siemens,simatic_wincc_runtime_advanced,,,6
+siemens,simcenter_amesim,,,1
+siemens,simcenter_femap,,,51
+siemens,simcenter_star ccm\+,,,1
+siemens,simcenter_star ccm\+_viewer,,,3
+siemens,simotics_connect_400_firmware,,,3
+siemens,simotion_d425 2_dp_firmware,,,1
+siemens,sinamics_sl150_firmware,,,2
+siemens,sinec_ins,,,14
+siemens,sinec_network_management_system,,,7
+siemens,sinec_nms,,,26
+siemens,sinec_security_monitor,,,4
+siemens,sinec_traffic_analyzer,,,12
+siemens,sinema_remote_connect,,,1
+siemens,sinema_remote_connect_client,,,6
+siemens,sinema_remote_connect_server,,,40
+siemens,sinema_server,,,1
+siemens,sinumerik_808d_firmware,,,1
+siemens,sinumerik_840d_sl_firmware,,,1
+siemens,sinumerik_analyse_mycondition_firmware,,,1
+siemens,sinumerik_edge,,,1
+siemens,sinumerik_mc_firmware,,,1
+siemens,sipass_integrated,,,5
+siemens,sipass_integrated_ac5102_\(acc g2\)_firmware,,,1
+siemens,sipass_integrated_acc ap_firmware,,,1
+siemens,siplus_tim_1531_irc_firmware,,,1
+siemens,siport,,,1
+siemens,siport_mp,,,1
+siemens,siprotec_5_6md85_firmware,,,2
+siemens,siprotec_5_with_cpu_variant_cp050,,,3
+siemens,siveillance_video,,,2
+siemens,siveillance_video_client,,,1
+siemens,siveillance_video_management_software_2019_r1,,,1
+siemens,siveillance_video_mobile_server,,,1
+siemens,siveillance_video_open_network_bridge,,,1
+siemens,software_center,,,1
+siemens,solid_edge,,,28
+siemens,solid_edge_se2020,,,3
+siemens,solid_edge_se2020_firmware,,,2
+siemens,solid_edge_se2021_firmware,,,3
+siemens,solid_edge_se2022,,,2
+siemens,solid_edge_se2023,,,30
+siemens,solid_edge_se2024,,,14
+siemens,spectrum_power_4,,,4
+siemens,spectrum_power_5,,,1
+siemens,spectrum_power_7,,,3
+siemens,star ccm\+,,,1
+siemens,syngo_dynamics_cardiovascular_imaging_and_information_system,,,7
+siemens,teamcenter,,,5
+siemens,teamcenter_active_workspace,,,6
+siemens,teamcenter_visualization,,,3
+siemens,tecnomatix,,,18
+siemens,tecnomatix_plant_simulation,,,65
+siemens,tecnomatix_robotexpert,,,1
+siemens,telecontrol_server_basic,,,1
+siemens,tia_administrator,,,1
+siemens,tia_multiuser_server,,,1
+siemens,tia_portal,,,1
+siemens,totally_integrated_automation_portal,,,1
+siemens,unicam_fx,,,1
+siemens,wincc,,,1
+siemens,xpedition_designer,,,1
+siemens,xpedition_layout_browser,,,1
+siemens healthineers,syngo_fastview,,,3
+silabs,unify_software_development_kit,,,1
+silabs,z\/ip_gateway_sdk,,,5
+siretta,quartz gold_firmware,,,2
+siteorigin,siteorigin_widgets_bundle,,,1
+skeepers,verified_reviews_\(avis_verifies\),,,1
+skyhighsecurity,secure_web_gateway,,,1
+smart hmi,webiq,,,1
+smartptt,scada_server,,,2
+smartptt,smartptt_scada,,,1
+snowflake,snowflake_connector,,,1
+softing,datafeed_opc_suite,,,4
+softing,edgeaggregator,,,4
+softing,opc,,,2
+softing,opc_ua_c\+\+_software_development_kit,,,1
+softing,secure_integration_server,,,2
+solar log,2000_pm\+_firmware,,,1
+solar log,solar log_250_firmware,,,1
+solax,pocket_wifi_3_firmware,,,1
+sophos,cloud_optix,,,1
+spidercontrol,scadawebserver,,,1
+splunk,splunk,,,5
+squid cache,squid,,,1
+starliteproject,starlite,,,1
+sungrowpower,winet s_firmware,,,2
+supcon,inplant_scada,,,2
+swiftsensors,sg3 1010_firmware,,,1
+swisslog healthcare,hmi 3_control_panel_firmware,,,8
+talend,open_studio,,,1
+talend,open_studio_for_mdm,,,1
+tel ster,telwin_scada_webinterface,,,1
+tenable,nessus_amazon_machine_image,,,1
+tenda,ax3_firmware,,,1
+tenda,it7 lcs_firmware,,,1
+tenda,o3_firmware1.0.0.10\(2478\),,,1
+teradici,pcoip_connection_manager_and_security_gateway,,,1
+tesla,model_3_firmware,,,1
+tesla,solarcity_solar_monitoring_gateway,,,1
+the guild,graphql_mesh,,,1
+the guild,graphql_mesh_cli,,,1
+thorntech,sftp_gateway_firmware,,,1
+thoughtworks,gocd,,,1
+thrivethemes,focusblog,,,2
+tianyisc,tewa 700g_firmware,,,1
+tibco,api_exchange_gateway,,,1
+tibco,hawk,,,2
+tibco,partnerexpress,,,3
+tieline,ip_audtio_gateway_firmware,,,1
+titanhq,spamtitan,,,2
+tranzware_payment_gateway_project,tranzware_payment_gateway,,,2
+trianglemicroworks,dnp3_source_code_library,,,1
+trianglemicroworks,iec_60870 6_software_library,,,1
+trianglemicroworks,iec_61850_source_code_library,,,1
+trianglemicroworks,scada_data_gateway,,,18
+tripay,payment_gateway,,,1
+tyk,tyk,,,3
+ubikasec,waap_cloud,,,1
+ui,unifi_network_application,,,1
+unified automation,.net_based_opc_ua_client\/server_sdk,,,1
+unified automation,opc_ua_c\+\+_demo_server,,,2
+unified automation,uagateway,,,3
+unitronics,visilogic,,,1
+unknown,unknown,,,428
+vadesecure,secure_gateway,,,3
+vanderwijk,content_blocks,,,2
+vertigis,weboffice,,,1
+visam,vbase_editor,,,1
+visual_voice_mail_project,visual_voice_mail,,,1
+vmware,spring_cloud_gateway,,,3
+void,aural_rec_monitor,,,1
+void,aurall_rec_monitor,,,1
+voltronicpower,snmp_web_pro,,,1
+wago,0852 0303_firmware,,,6
+wago,0852 0602_firmware,,,1
+wago,750 331_firmware,,,2
+wago,750 352_firmware,,,1
+wago,750 362_firmware,,,1
+wago,750 363\/040 000_firmware,,,1
+wago,750 8100_firmware,,,6
+wago,750 8202_firmware,,,1
+wago,750 823_firmware,,,8
+wago,750 852_firmware,,,1
+wago,750 880\/040 000_firmware,,,1
+wago,750 890\/040 000_firmware,,,1
+wago,750 893_firmware,,,10
+wago,751 9301_firmware,,,4
+wago,852 111\/000 001_firmware,,,1
+wago,compact_controller_100_firmware,,,3
+wago,pfc100_firmware,,,1
+wago,pfc200_firmware,,,1
+wago,pfc_100_firmware,,,1
+wago,telecontrol_configurator,,,1
+watchguard,authentication_gateway,,,2
+wavlink,wl wn533a8_firmware,,,1
+we con,plc_editor,,,4
+weintek,cmt fhd_firmware,,,3
+weintek,cmt2078x_firmware,,,1
+wireshark,wireshark,,,1
+wisdomgarden,tronclass_ilearn,,,1
+woo myghpay payment gateway_project,woo myghpay payment gateway,,,1
+woocommerce,stripe_payment_gateway,,,3
+woocommerce,woocommerce,,,1
+wp media,search_\&_replace,,,1
+xarrow,xarrow,,,3
+xinje,xd5e 30r e_firmware,,,1
+xinje,xd\/e_series_plc_program_tool,,,2
+yanco,woocommerce_cvr_payment_gateway,,,1
+yanco,woocommerce_ean_payment_gateway,,,1
+yokogawa,aw810d_firmware,,,1
+yokogawa,b\/m9000_vp,,,3
+yokogawa,centum_cs_3000_cp401_firmware,,,1
+yokogawa,centum_cs_3000_firmware,,,11
+yokogawa,centum_vp_firmware,,,2
+yokogawa,stardom_fcj_firmware,,,3
+yokogawa,widefield3,,,1
+yokogawa,wtviewere_761941,,,1
+zohocorp,manageengine_application_control_plus,,,1
+zohocorp,manageengine_opmanager,,,1
+zte,zxhn_f677_firmware,,,1
+zte,zxhn_f680_firmware,,,1
+zte,zxhn_h2640_firmware,,,1

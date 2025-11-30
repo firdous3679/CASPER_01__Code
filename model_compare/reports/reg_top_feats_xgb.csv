@@ -1,0 +1,31 @@
+feature,importance
+num__cvss_score,0.040700134
+txt__script,0.022255065
+txt__execute code,0.021238795
+cat__severity_LOW,0.01941642
+num__epss,0.019031517
+txt__during web,0.01699498
+txt__sel,0.016898535
+txt__inject,0.016597413
+num__base_flags,0.015509957
+cat__vendor_schneider electric,0.01508092
+txt__in abb,0.014394273
+txt__to inject,0.013936447
+txt__parsing,0.012988283
+txt__operations,0.012458019
+num__is_remote,0.012218507
+cat__vendor_abb,0.011437318
+txt__identified in,0.011250434
+txt__been identified,0.010777005
+txt__could allow,0.01075993
+txt__of data,0.010431281
+txt__rockwell,0.010324173
+txt__make,0.010181519
+txt__cwe,0.009625239
+txt__cp100,0.009448029
+txt__web interface,0.009023593
+txt__control expert,0.008308649
+cat__vendor_ge,0.008172938
+txt__vulnerability has,0.007970697
+cat__product_hsmx app 25_firmware,0.007894926
+txt__engineering,0.007891836

@@ -1,0 +1,1209 @@
+vendor,product,asset_type,Risk
+*,5400rmp_oem_harddrive,Other ICS Device,0.2647061424
+4d,server,Other ICS Device,0.44051666400000006
+abb,2tma310010b0001_firmware,Protection Relay,0.59730986448
+abb,800xa,Protection Relay,0.5372598672000001
+abb,800xa_base_system,Protection Relay,0.53450287632
+abb,800xa_batch_management,Protection Relay,0.53486738928
+abb,800xa_information_management,Protection Relay,0.5372598672000001
+abb,800xa_information_manager,Protection Relay,0.69162160032
+abb,800xa_rnrp,Protection Relay,0.53450287632
+abb,800xa_system,Protection Relay,0.7486339896000002
+abb,ac500_cpu_firmware,Protection Relay,0.5707396800000001
+abb,ac700f_firmware,Protection Relay,0.5207328
+abb,ao opc,Gateway,0.29338303680000005
+abb,arg600a1220na_firmware,Protection Relay,0.6252926400000002
+abb,aspect ent 12_firmware,Protection Relay,0.82656
+abb,aspect ent 2_firmware,Protection Relay,0.8003977228800001
+abb,automation_builder,Protection Relay,0.5369995008000001
+abb,base_software,Protection Relay,0.6252926400000002
+abb,control_builder_m,Protection Relay,0.45358389216000006
+abb,cs141_firmware,Protection Relay,0.4752720000000001
+abb,device_library_wizard,Protection Relay,0.39579164351999996
+abb,e design,Protection Relay,0.45701783568000004
+abb,flow x\/m_firmware,Protection Relay,0.42071904
+abb,h5692448_g104_firmware,Protection Relay,0.37525824
+abb,infinity_dc_power_plant,Protection Relay,0.5798318400000001
+abb,irb140_firmware,Protection Relay,0.6252926400000002
+abb,mint_workbench,Protection Relay,0.49300625808000004
+abb,mms_server,Protection Relay,0.27848376863999996
+abb,my_control_system,Protection Relay,0.6252926400000002
+abb,mybuildings,Protection Relay,0.6071083200000001
+abb,omnicore_c30_firmware,Protection Relay,0.6252926400000002
+abb,opc_server_for_ac_800m,Gateway,0.4242672000000001
+abb,platform_engineering_tools,Protection Relay,0.4050144
+abb,pm554_firmware,Protection Relay,0.5207328
+abb,pni800_firmware,Protection Relay,0.5207328
+abb,rccmd,Protection Relay,0.6252926400000002
+abb,rex640_pcl1_firmware,Protection Relay,0.5037279811200001
+abb,rmc 100_firmware,Protection Relay,0.6252926400000002
+abb,robotware,Protection Relay,0.6252926400000002
+abb,rtu500_firmware,Protection Relay,0.6263142681600001
+abb,smu615_firmware,Protection Relay,0.4050144
+abb,symphony_\+_historian,Protection Relay,0.7632260798400001
+abb,symphony_plus_s\+_operations,Protection Relay,0.55503504
+abb,system_access_point_2.0_firmware,Protection Relay,0.4050144
+abb,terra_ac_wallbox_ul40_firmware,Protection Relay,0.55503504
+abb,txpert_hub_coretec_4_firmware,Protection Relay,0.5514320649600001
+abb,update_manager,Protection Relay,0.45956736000000004
+abb,zenon,Protection Relay,0.66651484032
+abinitio,authorization_gateway,Other ICS Device,0.37104480000000006
+acuitybrands,nlight_eclypse_system_controller_firmware,Other ICS Device,0.46952468640000006
+adtran,sdg_smartos,Other ICS Device,0.34670160000000005
+advantech,webaccess,Other ICS Device,0.32999400000000007
+advantech,webaccess\/hmi_designer,Other ICS Device,0.5003350128
+advantech,webaccess\/scada,Other ICS Device,0.5620312656000002
+advantech,webaccess_scada,Other ICS Device,0.282443112
+advantech,wise 4060lan_firmware,Other ICS Device,0.37195593120000003
+afterpay,afterpay_gateway_for_woocommerce,Other ICS Device,0.33445440000000004
+agendaless,waitress,SCADA Server,0.61672699872
+airangel,hsmx app 25_firmware,SCADA Server,0.8198499859200001
+altn,securitygateway,Other ICS Device,0.46408420800000005
+ami,aptio_v,Other ICS Device,0.43877846880000004
+ami,megarac_sp x,Other ICS Device,0.5190581088000003
+ami,megarac_spx,Other ICS Device,0.39676845599999994
+ami,megarac_spx 12,Other ICS Device,0.31296373920000004
+amr ical events list_project,amr ical events list,Other ICS Device,0.2912112
+amr_shortcode_any_widget_project,amr_shortcode_any_widget,SCADA Server,0.42526512000000005
+anmari,amr_users,Other ICS Device,0.4242672000000001
+antonbond,woocommerce_tranzila_payment_gateway,Other ICS Device,0.5519595312000002
+apache,dolphinscheduler,Other ICS Device,0.2605532832
+apache,linkis,Other ICS Device,0.4402094256
+apache,ozone,Other ICS Device,0.40098240000000007
+apiida,api_gateway_manager,Other ICS Device,0.33809952960000006
+apollographql,apollo router,Other ICS Device,0.3628597392000001
+apollographql,apollo_gateway,Other ICS Device,0.39139420320000007
+apple,macos,Other ICS Device,0.2675381184000001
+ardereg,sistemas_scada,Other ICS Device,0.44644340160000007
+areal topkapi,webserv1,Other ICS Device,0.35330873760000003
+arraynetworks,arrayos_ag,Other ICS Device,0.6048
+arubanetworks,arubaos,Other ICS Device,0.45753120000000014
+assaabloy,control_id_rhid,Other ICS Device,0.45753120000000014
+asterisk,asterisk,Other ICS Device,0.5763867984000002
+asus,device_activation,Other ICS Device,0.37285920000000006
+asus,rt ax56u_firmware,Other ICS Device,0.37915516800000004
+asus,screenpad2_upgrade_tool,Other ICS Device,0.42128946720000005
+atoptechnology,se5901_firmware,Other ICS Device,0.4852969632000001
+atx,minicmts200a_firmware,Other ICS Device,0.5269286736000001
+automationdirect,c more_hmi_ea9_firmware,Other ICS Device,0.45753120000000014
+automationdirect,c0 10dd1e d_firmware,Other ICS Device,0.5143778640000002
+automationdirect,d0 06dd1_firmware,Other ICS Device,0.43424640000000003
+automattic,woocommerce_stripe,Other ICS Device,0.43305464160000007
+aveva,aveva_plant_scada,Data Historian,0.5353958131200002
+aveva,batch_management,Data Historian,0.4225737600000001
+aveva,intouch_access_anywhere,Data Historian,0.5223052800000001
+aviatrix,gateway,Other ICS Device,0.5030185104000001
+avira,anti malware_sdk,Other ICS Device,0.39033792
+awplife,grid_gallery,Other ICS Device,0.34515059040000007
+barracuda,email_security_gateway_300_firmware,Other ICS Device,0.6048
+barracuda,t100b_firmware,Other ICS Device,0.5045915952000001
+baxter,spectrum_wireless_battery_module_firmware,Other ICS Device,0.3207366288000001
+beckhoff,authelia bhf,Other ICS Device,0.33075635040000007
+beckhoff,bk9000_firmware,Other ICS Device,0.46097341920000007
+beckhoff,cx9020,Other ICS Device,0.45753120000000014
+beckhoff,ipc_diagnostics_package,Other ICS Device,0.3523026528
+beckhoff,ipc_diagnostics_ua_server,Other ICS Device,0.30784320000000004
+beckhoff,mdp_package,Other ICS Device,0.4043632320000001
+beckhoff,tf6100_firmware,Other ICS Device,0.43821933120000006
+beckhoff,twincat_driver,Other ICS Device,0.37392122880000006
+beckhoff,twincat_extended_automation_runtime,Other ICS Device,0.3562272
+belden,hirschmann_bat c2_firmware,Other ICS Device,0.5329098432000001
+belden,hirschmann_hios,Other ICS Device,0.47135390400000016
+belden,tofino_xenon_security_appliance_firmware,Other ICS Device,0.4429527984000002
+bestpractical,request_tracker,Other ICS Device,0.4402097280000001
+bitdefender,endpoint_security_tools,Other ICS Device,0.42339175200000007
+bkw,solar log_500_firmware,Other ICS Device,0.4936589280000001
+bladex,springblade,Other ICS Device,0.30301689600000004
+bosch,video_streaming_gateway,Other ICS Device,0.5447475936
+boschrexroth,ctrlx_hmi_web_panel_wr2107_firmware,Other ICS Device,0.41634099360000004
+broadcom,advanced_secure_gateway,Other ICS Device,0.5549188176000002
+broadcom,raid_controller_web_interface,Other ICS Device,0.4605074208000001
+broadcom,symantec_messaging_gateway,Other ICS Device,0.5964207984000002
+broadcom,symantec_proxysg,Other ICS Device,0.5418179424000001
+broadcom,vmware_nsx,Other ICS Device,0.3366292608000001
+busbaer,eisbaer_scada,Other ICS Device,0.4998672000000001
+byzoro,smart_s45f_firmware,Other ICS Device,0.597568104
+carel,pcoweb_card_firmware,Other ICS Device,0.5274684576000002
+cassianetworks,xc1000_firmware,Other ICS Device,0.45753120000000014
+cellopoint,secure_email_gateway,Other ICS Device,0.5783920128000002
+ceph,ceph ansible,Other ICS Device,0.25200080640000005
+chinamobile,intelligent_home_gateway_firmware,Other ICS Device,0.5996341008000001
+chinamobileltd,gpn2.4p21 c cn_firmware,Other ICS Device,0.43424640000000003
+chinatelecom,epon_tianyi_gateway_zxhn_f450_firmware,Other ICS Device,0.4397207472000001
+chirpstack,gateway_bridge,Other ICS Device,0.389353608
+chirpstack,network_server,Other ICS Device,0.4344725952000001
+cilium,cilium,Other ICS Device,0.37365602400000003
+ciphermail,gateway,Other ICS Device,0.5017804848
+circutor,compact_dc s_basic_firmware,Other ICS Device,0.5648317920000002
+cisco,adaptive_security_appliance,Switch,0.52049444832
+cisco,adaptive_security_appliance_software,Switch,0.51431532768
+cisco,aironet_access_point_software,Switch,0.39550896
+cisco,asyncos,Switch,0.40814928
+cisco,cyber_vision,Switch,0.4191264
+cisco,duo_network_gateway,Switch,0.31642513056
+cisco,email_security_appliance,Switch,0.45284911056000005
+cisco,firepower_threat_defense,Switch,0.54236818944
+cisco,ios,Switch,0.49950552960000005
+cisco,ios_xe,Switch,0.45937584000000004
+cisco,ios_xr,Switch,0.5674405968
+cisco,ironport_email_security_appliance,Switch,0.5032843200000001
+cisco,meraki_mx64_firmware,Switch,0.45937584000000004
+cisco,meraki_mx65_firmware,Switch,0.4191264
+cisco,meraki_z4c_firmware,Switch,0.4191264
+cisco,nx os,Switch,0.5742211305600001
+cisco,openh264,Switch,0.43686143424
+cisco,packet_data_network_gateway,Switch,0.4191264
+cisco,secure_email_and_web_manager,Switch,0.36789984000000003
+cisco,secure_email_gateway,Switch,0.5032843200000001
+cisco,umbrella_secure_web_gateway,Switch,0.6188397969600001
+citrix,application_delivery_controller,Other ICS Device,0.5282220384
+citrix,application_delivery_controller_firmware,Other ICS Device,0.5227343856000001
+citrix,application_delivery_management,Other ICS Device,0.39984386400000005
+citrix,gateway,Other ICS Device,0.49240154880000003
+citrix,gateway_firmware,Other ICS Device,0.38102400000000003
+citrix,gateway_plug in,Other ICS Device,0.5357617776000001
+citrix,gateway_plug in_for_linux,Other ICS Device,0.39077791200000006
+citrix,netscaler_application_delivery_controller,Other ICS Device,0.5722780896
+cloudflare,warp,Other ICS Device,0.40569500160000016
+clusterlabs,pcs,Other ICS Device,0.46865710080000006
+codesys,control_for_beaglebone,Other ICS Device,0.4785585840000001
+codesys,control_for_beaglebone_sl,Other ICS Device,0.5012788032000002
+codesys,gateway,Other ICS Device,0.5375208384000002
+codesys,opc_da_server,Gateway,0.296352
+codesys,oscat_basic_library,Other ICS Device,0.23042063520000003
+codesys,plcwinnt,Other ICS Device,0.5353102944000001
+coinmarketstats,bitcoin_\/_altcoin_payment_gateway_for_woocommerce,Other ICS Device,0.45753120000000014
+collective.dms.basecontent_project,collective.dms.basecontent,Other ICS Device,0.3415308624
+combined_charging_system_project,combined_charging_system_firmware,Other ICS Device,0.3646490400000001
+commscope,dg3450_firmware,Other ICS Device,0.3761299584
+compassplus,tranzware_e commerce_payment_gateway,Other ICS Device,0.43967417760000005
+contec,conprosys_hmi_system,Other ICS Device,0.6048
+contec,cps mg341 adsc1 111_firmware,Other ICS Device,0.5511481920000001
+coredns.io,coredns,Other ICS Device,0.2597616
+cosmos cloud,cosmos_server,Other ICS Device,0.5367333888000002
+couchbase,couchbase_server,Other ICS Device,0.46927127520000006
+couchbase,sync_gateway,Other ICS Device,0.5324426352000001
+cryptopp,crypto\+\+,Other ICS Device,0.38777659200000003
+dbsoft,sglac,Other ICS Device,0.45753120000000014
+dcce,mac1100_plc_firmware,Other ICS Device,0.45753120000000014
+dell,edge_gateway_3200_firmware,Other ICS Device,0.38616480000000003
+dell,edge_gateway_5000_firmware,Other ICS Device,0.38616480000000003
+dell,edge_gateway_5200_firmware,Other ICS Device,0.4690015343999999
+dell,intel_management_engine_firmware_update_utility,Other ICS Device,0.2597616
+dell,policy_manager_for_secure_connect_gateway,Other ICS Device,0.37967076000000005
+dell,secure_connect_gateway,Other ICS Device,0.5292244944000001
+dell,supportassist_client_promanage,Other ICS Device,0.34193698560000013
+dell,supportassist_for_business_pcs,Other ICS Device,0.44652323520000015
+dell,supportassist_for_home_pcs,Other ICS Device,0.3697239168000001
+deltaww,dvp32es200r_firmware,Other ICS Device,0.3794448672000001
+deltaww,infrasuite_device_master,Other ICS Device,0.5819101344000001
+deltaww,wplsoft,Other ICS Device,0.3235692096000001
+devolutions,devolutions_gateway,Other ICS Device,0.38102400000000003
+deyeinverter,inverter_firmware,Other ICS Device,0.3041832528
+digi,transport_dr64_firmware,Other ICS Device,0.4750746336000001
+digi,transport_wr11_firmware,Other ICS Device,0.4147573248000001
+digitalcomtech,syrus_4g_iot_telematics_gateway_firmware,Other ICS Device,0.5879049120000001
+dinstar,dag2000 16o_firmware,Other ICS Device,0.32080104000000004
+dlink,dap 1325_firmware,Other ICS Device,0.5297041008000001
+dlink,dap 2622_firmware,Other ICS Device,0.4061232000000001
+dlink,dar 7000_firmware,Other ICS Device,0.6045747120000001
+dlink,dsl 3782_firmware,Other ICS Device,0.2517570720000001
+dolibarr,dolibarr_erp\/crm,Other ICS Device,0.35530911360000006
+dominionvoting,imagecast_x,Other ICS Device,0.3395952
+domoticz,mydomoathome,Other ICS Device,0.38102400000000003
+dpsoft,parsian_bank_gateway_for_woocommerce,Other ICS Device,0.37425659040000003
+dreamfoxmedia,payment_gateway_per_product_for_woocommerce,Other ICS Device,0.33507885600000004
+dreamfoxmedia,woocommerce_payment_gateway_per_category,Other ICS Device,0.37425659040000003
+duitku,duitku_payment_gateway,Other ICS Device,0.36525928320000006
+eaton,easy box e4 ac1_firmware,Other ICS Device,0.29386627200000004
+eaton,smp_sg 4260_firmware,Other ICS Device,0.27887690880000005
+eclipse,hono,Other ICS Device,0.49717614240000013
+edgexfoundry,edgex_foundry,SCADA Server,0.53571461328
+electronics.jtekt,kostac_plc_programming_software,Other ICS Device,0.34324516800000004
+emerson,controlwave_pac_firmware,Other ICS Device,0.3307666320000001
+emerson,data_record_ad,Other ICS Device,0.3933625248
+emerson,deltav,Other ICS Device,0.32944121280000005
+emerson,deltav_distributed_control_system,Other ICS Device,0.3703465584
+emerson,deltav_distributed_control_system_sq_controller_firmware,Other ICS Device,0.33584483520000014
+emerson,deltav_workstation,Other ICS Device,0.2576420784000001
+emerson,dixell_xweb 500_firmware,Other ICS Device,0.6048
+emerson,dl8000_firmware,Other ICS Device,0.4716841248000001
+emerson,electric\'s_proficy,Other ICS Device,0.39247165440000004
+emerson,gc370xa_firmware,Other ICS Device,0.5117212800000002
+emerson,openbsi,Other ICS Device,0.30533569920000003
+emerson,openenterprise_scada_server,Other ICS Device,0.5694358320000001
+emerson,proficy,Other ICS Device,0.37285920000000006
+emerson,proficy_machine_edition,Other ICS Device,0.35468072640000003
+emerson,roc809_firmware,Other ICS Device,0.4442256000000001
+emerson,rosemount_transmitter_interface_software,Other ICS Device,0.37285920000000006
+emerson,smart_wireless_gateway_1420_firmware,Other ICS Device,0.38102400000000003
+emerson,valvelink,Other ICS Device,0.3702661200000001
+emerson,wireless_1410_gateway_firmware,Other ICS Device,0.5085010224000002
+emerson,wireless_1420_gateway_firmware,Other ICS Device,0.4242672000000001
+emerson,x stream_enhanced_xegp_firmware,Other ICS Device,0.5552490384000002
+emerson,xweb300d_evo_firmware,Other ICS Device,0.5825303568000001
+ems_project,ems,Other ICS Device,0.4404341088000001
+enphase,iq_gateway_firmware,Other ICS Device,0.45753120000000014
+epicor,human_capital_management,Other ICS Device,0.5203176048000001
+ericsson,evolved_packet_gateway,Other ICS Device,0.4242672000000001
+eupago,eupago_gateway_woocommerce,Other ICS Device,0.4475541168000001
+express gateway,express gateway_docker_image,Other ICS Device,0.5811290352000001
+f5,big ip_access_policy_manager,Other ICS Device,0.4777151904000001
+f5,big ip_advanced_firewall_manager,Other ICS Device,0.4762397808
+facade,ignition,Other ICS Device,0.6048
+fatek,winproladder,Other ICS Device,0.4622262624000001
+fernhillsoftware,scada_server,Other ICS Device,0.38908689120000006
+filemage,filemage,SCADA Server,0.7356045110400001
+fit2cloud,cloudexplorer_lite,Other ICS Device,0.4129471584000001
+forcepoint,cloud_security_gateway,Other ICS Device,0.45753120000000014
+forcepoint,data_loss_prevention,Other ICS Device,0.38102400000000003
+forcepoint,email_security,Other ICS Device,0.49510440000000017
+fortinet,forticlient,Other ICS Device,0.3826974816
+fortinet,forticlient_emergency_management_server,Other ICS Device,0.3561004944
+fortinet,forticlient_endpoint_management_server,Other ICS Device,0.30784320000000004
+fortinet,forticlient_enterprise_management_server,Other ICS Device,0.48059373600000005
+fortinet,forticlientems,Other ICS Device,0.2495991456000001
+fortinet,fortisoar,Other ICS Device,0.5016583152
+freerdp,freerdp,Other ICS Device,0.4095363888000001
+freeswitch,freeswitch,Other ICS Device,0.45063073440000007
+ge,asset_performance_management_classic,SCADA Server,0.57289204224
+ge,cimplicity,SCADA Server,0.6452540640000002
+ge,digital_industrial_gateway_server,SCADA Server,0.7875703382400002
+ge,ifix,SCADA Server,0.6000718147200002
+ge,industrial_gateway_server,SCADA Server,0.6239705572800002
+ge,micom_s1_agile,SCADA Server,0.48684384
+ge,ms_3000_firmware,SCADA Server,0.6290968824000002
+ge,multilin_b30_firmware,SCADA Server,0.6252926400000002
+ge,proficy_cimplicitiy,SCADA Server,0.4684768502400001
+ge,rt430_firmware,SCADA Server,0.7559329276800001
+ge,toolboxst,SCADA Server,0.5095742400000001
+ge,ur_bootloader_binary,SCADA Server,0.46411344
+ge,workstationst,SCADA Server,0.52734032064
+getambassador,emissary ingress,SCADA Server,0.31336914672
+gira,tks ip gateway_firmware,Other ICS Device,0.45753120000000014
+gitlab,gitlab,Other ICS Device,0.41103689760000006
+gitpod,gitpod,Other ICS Device,0.3542930496000001
+google,android,Other ICS Device,0.6034485744000001
+greenwallet,woocommerce_green_wallet_gateway,Other ICS Device,0.33445440000000004
+gstreamer_project,gstreamer,Other ICS Device,0.43941592800000007
+h mdm,headwind_mdm,Other ICS Device,0.4194662976000001
+hashicorp,consul,Other ICS Device,0.42713788320000007
+hashicorp,nomad,Other ICS Device,0.4291678944000001
+hasthemes,ht_mega,Other ICS Device,0.3424707216000001
+haxx,curl,Other ICS Device,0.47978088480000014
+hcltech,domino,Other ICS Device,0.5028878736000001
+hcltech,notes,Other ICS Device,0.5028878736000001
+heimdal_project,heimdal,Other ICS Device,0.42580278720000003
+hexagongeospatial,geomedia_webmap,SCADA Server,0.7575877008000002
+hgiga,oaklouds_portal,Other ICS Device,0.5969351808000002
+hitachi,linkone,Other ICS Device,0.4528681920000001
+hitachi,virtual_file_platform,Other ICS Device,0.4242672000000001
+hitachiabb powergrids,ellipse_asset_performance_management,Protection Relay,0.49986298656
+hitachiabb powergrids,sdm600_firmware,Protection Relay,0.43907569776000005
+hitachienergy,650connectivitypackage,Other ICS Device,0.296352
+hitachienergy,counterparty_settlement_and_billing,Other ICS Device,0.4294176768
+hitachienergy,counterparty_settlements_and_billing,Other ICS Device,0.3233176128
+hitachienergy,ellipse_enterprise_asset_management,Other ICS Device,0.33445440000000004
+hitachienergy,esoms,Other ICS Device,0.43588722240000005
+hitachienergy,fox615_firmware,Other ICS Device,0.45628894080000004
+hitachienergy,foxman un,Other ICS Device,0.5008155264000002
+hitachienergy,gms600_firmware,Other ICS Device,0.4088423808
+hitachienergy,microscada_pro_sys600,Other ICS Device,0.48652228800000014
+hitachienergy,microscada_x_sys600,Other ICS Device,0.49693271040000003
+hitachienergy,modular_switchgear_monitoring_firmware,Other ICS Device,0.4242672000000001
+hitachienergy,relion_650_firmware,Other ICS Device,0.2812320000000001
+hitachienergy,relion_670_firmware,Other ICS Device,0.49078219680000007
+hitachienergy,rtu500_firmware,Other ICS Device,0.4703487264000001
+hitachienergy,rtu520_firmware,Other ICS Device,0.38102400000000003
+hitachienergy,sys600_firmware,Other ICS Device,0.38102400000000003
+hitachienergy,txpert_hub_coretec_4_firmware,Other ICS Device,0.3362688000000001
+hkdigit,payment_gateway_for_telcell,Other ICS Device,0.33445440000000004
+hms networks,ewon_flexy_firmware,Other ICS Device,0.33445440000000004
+honeywell,alerton_ascent_control_module_firmware,Other ICS Device,0.46738127520000006
+honeywell,alerton_bcm web_firmware,Other ICS Device,0.4800412512000002
+honeywell,alerton_compass,Other ICS Device,0.3641969520000001
+honeywell,alterton_visual_logic_firmware,Other ICS Device,0.49504875840000007
+honeywell,c200_firmware,Other ICS Device,0.4641840000000001
+honeywell,c300_firmware,Other ICS Device,0.45753120000000014
+honeywell,controledge_plc_firmware,Other ICS Device,0.5887325808000002
+honeywell,controledge_unit_operations_controller_firmware,Other ICS Device,0.4000540320000001
+honeywell,experion_lx_firmware,Other ICS Device,0.49655017439999993
+honeywell,experion_server,Other ICS Device,0.38102400000000003
+honeywell,hdzp252di_firmware,Other ICS Device,0.5730724944000002
+honeywell,inncom_inncontrol_firmware,Other ICS Device,0.3702661200000001
+honeywell,iq3xcite_firmware,Other ICS Device,0.3387366864000001
+honeywell,matrikon_opc_server,Gateway,0.4242672000000001
+honeywell,maxpro_nvr_xe_firmware,Other ICS Device,0.5642771904000001
+honeywell,mb secure_firmware,Other ICS Device,0.4347580608000001
+honeywell,mpa2_firmware,Other ICS Device,0.2912112
+honeywell,niagara_framework,Other ICS Device,0.37066861440000004
+honeywell,notifier_webserver,Other ICS Device,0.4778503632000001
+honeywell,onewireless_network_wireless_device_manager_firmware,Other ICS Device,0.38102400000000003
+honeywell,opc_ua_tunneller,Gateway,0.534138192
+honeywell,pm43_firmware,Other ICS Device,0.45753120000000014
+honeywell,prowatch,Other ICS Device,0.3316768560000001
+honeywell,safety_manager_firmware,Other ICS Device,0.5742621360000001
+honeywell,saia_pg5_controls_suite,Other ICS Device,0.5508200880000002
+honeywell,softmaster,Other ICS Device,0.37285920000000006
+honeywell,trend_iq412_firmware,Other ICS Device,0.30100744800000007
+honeywell,win pak,Other ICS Device,0.44556220800000007
+hornerautomation,cscape,Other ICS Device,0.35691546240000005
+hornerautomation,cscape_envision_rv,Other ICS Device,0.35961438240000004
+hornerautomation,cscape_envisionrv,Other ICS Device,0.37201883040000006
+hp,260_g4_desktop_mini_firmware,Other ICS Device,0.3714739056
+hp,348_g4_firmware,Other ICS Device,0.346248
+hp,icewall_sso_dfw,Other ICS Device,0.4085402832000001
+hp,icewall_sso_dgfw,Other ICS Device,0.39380312160000003
+hp,t430_thin_client_firmware,Other ICS Device,0.3861605664
+huawei,emui,Other ICS Device,0.37626966720000005
+hyland,onbase,Other ICS Device,0.39642492960000003
+hyperledger,fabric,SCADA Server,0.51064380864
+ibm,application_gateway,Other ICS Device,0.47398901760000006
+ibm,b2b_advanced_communications,Other ICS Device,0.34776000000000007
+ibm,cics_transaction_gateway,Other ICS Device,0.38327113440000005
+ibm,datapower_gateway,Other ICS Device,0.5000008608000002
+ibm,iot_messagesight,Other ICS Device,0.5802188112000002
+ibm,security_verify_bridge_directory_sync,Other ICS Device,0.24974853120000004
+ibm,sterling_b2b_integrator,Other ICS Device,0.38102400000000003
+ibm,sterling_file_gateway,Other ICS Device,0.49484131200000003
+ibm,verify_gateway,Other ICS Device,0.4568792256000001
+ibm,voice_gateway,Other ICS Device,0.43911292319999995
+iboss,secure_web_gateway,Other ICS Device,0.4663268064
+iclinks,scadaflex_ii_firmware,Other ICS Device,0.5821853184000001
+iconics,analytix,Other ICS Device,0.5936985936000001
+iconics,genesis64,Other ICS Device,0.5980083984000001
+iconics,mobilehmi,Other ICS Device,0.39414180960000006
+idearespa,reftree,Other ICS Device,0.4015182528000001
+idec,data_file_manager,Other ICS Device,0.5556702816000002
+idec,kit fc6a 24 kc_firmware,Other ICS Device,0.23117391360000003
+idec,microsmart_fc6a_firmware,Other ICS Device,0.38102400000000003
+idec,windldr,Other ICS Device,0.40754024640000003
+ignition_error_pages_project,ignition_error_pages,SCADA Server,0.40059685008
+ikea,tradfri_gateway_e1526_firmware,Other ICS Device,0.31903411680000004
+inductiveautomation,ignition,Other ICS Device,0.5831526960000002
+inductiveautomation,ignition_gateway,Other ICS Device,0.4219946640000001
+inea,me_rtu_firmware,Other ICS Device,0.5595482592000002
+ingeteam,ingepac_da3451_firmware,SCADA Server,0.5207328
+ingeteam,ingepac_fc5066_firmware,SCADA Server,0.5207328
+inohom,home_manager_gateway,Other ICS Device,0.37717354080000004
+integrationobjects,opc_ua_server_toolkit,Gateway,0.32033443680000007
+intel,bmc_firmware,Other ICS Device,0.45753120000000014
+intel,hid_event_filter_driver,Other ICS Device,0.3562272
+intel,nuc_10_performance_kit_nuc10i7fnhn_firmware,Other ICS Device,0.35481983040000004
+intel,nuc_11_performance_kit_nuc11pahi30z_firmware,Other ICS Device,0.31321261440000003
+intel,nuc_kit_wireless_adapter_driver_installer,Other ICS Device,0.33150116160000004
+intel,nuc_m15_laptop_kit_lapbc510_firmware,Other ICS Device,0.43167509280000005
+intel,usb_type_c_power_delivery_controller,Other ICS Device,0.3562272
+intelliants,subrion,Other ICS Device,0.33445440000000004
+iowacomputergurus,aspnetcore.utilities.cloudstorage,Other ICS Device,0.32600111040000007
+ipack,scada_automation,Other ICS Device,0.5821789680000001
+ipear_project,ipear,Other ICS Device,0.31116960000000005
+istio,istio,Other ICS Device,0.5357935296000002
+istio operator_project,istio operator,Other ICS Device,0.4836328560000001
+ivanti,connect_secure,Other ICS Device,0.6048
+jaycar,la5570_firmware,Other ICS Device,0.5174390592000001
+jazzcash,woocommerce_jazzcash_gateway,Other ICS Device,0.33445440000000004
+jetbrains,jetbrains_gateway,Other ICS Device,0.3714657408000001
+jhipster,generator jhipster,Other ICS Device,0.4593332016
+jtekt,gc a22w cw_firmware,Other ICS Device,0.4813052832000001
+jtekt,kostac_plc,Other ICS Device,0.3718346688000001
+jtekt,kostac_plc_programming_software,Other ICS Device,0.3676751568
+jtekt,pc10g cpu_firmware,Other ICS Device,0.42635103840000005
+jtekt,pc10g cpu_tcc 6353_firmware,Other ICS Device,0.4896896256
+juniper,junos,Switch,0.47922912576000004
+juniper,junos_os_evolved,Switch,0.44876329344
+kepware,kepserverex,Other ICS Device,0.37702748160000005
+knovos,discovery,Other ICS Device,0.5686033248000001
+konghq,docker kong,Other ICS Device,0.45753120000000014
+konghq,kong_gateway,Other ICS Device,0.488673864
+koyoele,remote_gc,Other ICS Device,0.3199763952
+kuka,visual_components_network_license_server,Other ICS Device,0.38102400000000003
+landisgyr,e850_firmware,Other ICS Device,0.2715558048000001
+laquisscada,scada,Other ICS Device,0.48324396960000005
+lcds,laquis_scada,Other ICS Device,0.37285920000000006
+level1,wbr 6012_firmware,Other ICS Device,0.38102400000000003
+lg,webos,Other ICS Device,0.46552847040000017
+libmodbus,libmodbus,Other ICS Device,0.45753120000000014
+lightxun,iptv_gateway,Other ICS Device,0.3661592256
+linux,linux_kernel,Other ICS Device,0.46340804160000004
+linuxfoundation,ceph,Other ICS Device,0.33445440000000004
+linuxfoundation,the_update_framework,Other ICS Device,0.4978030176
+litestar,litestar,Other ICS Device,0.48685976640000006
+ls electric,xbc dn32u_firmware,Other ICS Device,0.4576116384000001
+ls electric,xg5000,Other ICS Device,0.3206586096000001
+machinesense,feverwarn_firmware,Other ICS Device,0.3480923376000001
+mayan edms,mayan_edms,Other ICS Device,0.3370136112
+maykinmedia,open_forms,Other ICS Device,0.3807058752000001
+mcafee,content_security_reporter,Other ICS Device,0.2358747216
+mcafee,data_loss_prevention_discover,Other ICS Device,0.45850885920000006
+mcafee,data_loss_prevention_endpoint,Other ICS Device,0.3435073488
+mcafee,email_gateway,Other ICS Device,0.29787458400000005
+mcafee,web_gateway,Other ICS Device,0.49604577120000015
+meetecho,janus,Other ICS Device,0.5589343872000001
+mfasoft,secure_authentication_server,Other ICS Device,0.44278587360000005
+mi,miui_firmware,Other ICS Device,0.4329569664000001
+microfocus,secure_messaging_gateway,Other ICS Device,0.4242672000000001
+microsoft,azure_data_box_gateway,Other ICS Device,0.4167486288
+microsoft,on prem_data_gateway,Other ICS Device,0.44278617600000003
+microsoft,windows_10,Other ICS Device,0.43489837440000007
+microsoft,windows_10_1507,Other ICS Device,0.4835862864000001
+microsoft,windows_server_2008,Other ICS Device,0.40204926720000006
+microsoft,windows_server_2012,Other ICS Device,0.5235439104
+microsoft,windows_server_2016,Other ICS Device,0.5273837856
+minio,minio,Other ICS Device,0.5034122352000001
+mitel,micollab,Other ICS Device,0.44292709440000005
+mitel,mivoice_connect,Other ICS Device,0.5118673392000002
+mitsubishi,g 50a_firmware,Other ICS Device,0.4043088
+mitsubishi,gt27_firmware,Other ICS Device,0.44484763680000006
+mitsubishi,melsec_iq r_r00_cpu_firmware,Other ICS Device,0.5086649232000001
+mitsubishi,melsec_iq r_rd81mes96n_firmware,Other ICS Device,0.5569594128000002
+mitsubishielectric,c_controller_interface_module_utility,Other ICS Device,0.45753120000000014
+mitsubishielectric,c_controller_module_setting_and_monitoring_tool,Other ICS Device,0.59745168
+mitsubishielectric,coreos,Other ICS Device,0.5713155504
+mitsubishielectric,cpu_module_logging_configuration_tool,Other ICS Device,0.45753120000000014
+mitsubishielectric,cr800 q_firmware,Other ICS Device,0.4631029200000001
+mitsubishielectric,cw_configurator,Other ICS Device,0.45753120000000014
+mitsubishielectric,ezsocket,Other ICS Device,0.5908028112000001
+mitsubishielectric,fx3g 14_mr\/ds_firmware,Other ICS Device,0.47908657439999996
+mitsubishielectric,fx3u 16mr\/es_firmware,Other ICS Device,0.43613246879999995
+mitsubishielectric,fx3u 32mt\/es_firmware,Other ICS Device,0.5405034096
+mitsubishielectric,fx3u enet l_firmware,Other ICS Device,0.38102400000000003
+mitsubishielectric,fx3u enet_firmware,Other ICS Device,0.38102400000000003
+mitsubishielectric,fx5 enet\/ip_firmware,Other ICS Device,0.44325822240000007
+mitsubishielectric,fx5u 32mt\/es_firmware,Other ICS Device,0.3172671936000001
+mitsubishielectric,fx5u 80mt\/ess_firmware,Other ICS Device,0.5592984768
+mitsubishielectric,fx5uc 32mr\/ds ts_firmware,Other ICS Device,0.4940293680000001
+mitsubishielectric,fx5uc_firmware,Other ICS Device,0.5340958560000001
+mitsubishielectric,gc enet com_firmware,Other ICS Device,0.30965760000000003
+mitsubishielectric,got2000_gt27_firmware,Other ICS Device,0.4224153024
+mitsubishielectric,gt2107 wtbd_firmware,Other ICS Device,0.4314038400000001
+mitsubishielectric,gt21_firmware,Other ICS Device,0.5172122591999999
+mitsubishielectric,gt_designer3,Other ICS Device,0.38102400000000003
+mitsubishielectric,gt_softgot2000,Other ICS Device,0.42535946880000003
+mitsubishielectric,gx_works2,Other ICS Device,0.38102400000000003
+mitsubishielectric,gx_works3,Other ICS Device,0.4870904976
+mitsubishielectric,iu1 1m20 d_firmware,Other ICS Device,0.5655261024000001
+mitsubishielectric,mac 557if e_firmware,Other ICS Device,0.5696094096000002
+mitsubishielectric,mac 587if e_firmware,Other ICS Device,0.4392529344
+mitsubishielectric,mc_works,Other ICS Device,0.6012809712000002
+mitsubishielectric,mc_works32,Other ICS Device,0.43424640000000003
+mitsubishielectric,melsec_iq fx5u 32mr\/ds_firmware,Other ICS Device,0.3828384
+mitsubishielectric,melsec_iq fx5u 32mt\/es_firmware,Other ICS Device,0.43948729440000006
+mitsubishielectric,melsec_iq r00cpu_firmware,Other ICS Device,0.44090827200000005
+mitsubishielectric,melsec_iq r_firmware,Other ICS Device,0.5223687840000001
+mitsubishielectric,melsec_iq rj71eip91_firmware,Other ICS Device,0.5621984928000001
+mitsubishielectric,melsec_ws0 geth00200_firmware,Other ICS Device,0.4465177920000001
+mitsubishielectric,mi5122 vw_firmware,Other ICS Device,0.5586930720000001
+mitsubishielectric,q03udecpu_firmware,Other ICS Device,0.46083794400000005
+mitsubishielectric,qj71mes96_firmware,Other ICS Device,0.5404907088
+mitsubishielectric,r00cpu_firmware,Other ICS Device,0.38102400000000003
+mitsubishielectric,r08sfcpu_firmware,Other ICS Device,0.43424640000000003
+mitsubishielectric,r12ccpu v_firmware,Other ICS Device,0.30965760000000003
+mitsubishielectric,rh 12sdh55_firmware,Other ICS Device,0.4541319216
+mitsubishielectric,rj71en71_firmware,Other ICS Device,0.4413125808
+mnapoli,bref,Other ICS Device,0.38246705280000004
+mobile industrial robots,mir100_firmware,Other ICS Device,0.45753120000000014
+mobileiron,mobile\@work,Other ICS Device,0.38102400000000003
+mobyproject,moby,Other ICS Device,0.4802695632
+modbustools,modbus_poll,Other ICS Device,0.37966471200000007
+modbustools,modbus_slave,Other ICS Device,0.41443980480000003
+mokosmart,mkgw1_gateway_firmware,Other ICS Device,0.4799021472000001
+motorola,ace1000_firmware,Other ICS Device,0.5144244336000001
+motorola,moscad_ip_gateway_firmware,Other ICS Device,0.4410987840000001
+moxa,edr g902 t_firmware,Other ICS Device,0.5019628320000002
+moxa,edr g903_firmware,Other ICS Device,0.5857648272000001
+moxa,eds 4008_firmware,Other ICS Device,0.401727816
+moxa,eds g503_firmware,Other ICS Device,0.33075544320000005
+moxa,eds g516e_firmware,Other ICS Device,0.5336026416
+moxa,iologik_2512_firmware,Other ICS Device,0.40463478720000007
+moxa,iologik_e1210_firmware,Other ICS Device,0.4442222736000001
+moxa,iologik_e4200_firmware,Other ICS Device,0.3748698576
+moxa,mds g516e_firmware,Other ICS Device,0.40544280000000005
+moxa,mgate_5105 mb eip_firmware,Other ICS Device,0.5740794864000001
+moxa,mgate_mb3170i_firmware,Other ICS Device,0.4211186112
+moxa,mgate_mb3180_firmware,Other ICS Device,0.4761381744000001
+moxa,miineport_e1_firmware,Other ICS Device,0.5307618960000001
+moxa,mxsecurity,Other ICS Device,0.5189347296000001
+moxa,mxview,Other ICS Device,0.5606997984000002
+moxa,mxview_one,Other ICS Device,0.3772957104000001
+moxa,nport_5100a_firmware,Other ICS Device,0.32095677600000005
+moxa,nport_5110_firmware,Other ICS Device,0.4043088
+moxa,nport_5150ai m12 ct t_firmware,Other ICS Device,0.3965350032000001
+moxa,nport_6150 t_firmware,Other ICS Device,0.3786489504000001
+moxa,nport_ia5150a_firmware,Other ICS Device,0.38102400000000003
+moxa,nport_iaw5000a i\/o_firmware,Other ICS Device,0.49311249120000017
+moxa,nport_iaw5150a 6i\/o_firmware,Other ICS Device,0.5730322752000001
+moxa,nport_w2150a_firmware,Other ICS Device,0.4947406128000001
+moxa,oncell_g3150a lte_firmware,Other ICS Device,0.32759173440000006
+moxa,oncell_g3470a lte eu t_firmware,Other ICS Device,0.5270590080000002
+moxa,oncell_g3470a lte us t_firmware,Other ICS Device,0.5257916496000001
+moxa,pt 7528 24tx hv_firmware,Other ICS Device,0.5738980464000001
+moxa,sds 3008_firmware,Other ICS Device,0.5233174128000001
+moxa,tn 5900_firmware,Other ICS Device,0.5829791184
+moxa,tn 5916 wv t_firmware,Other ICS Device,0.43944768
+moxa,uc 2101 lx_firmware,Other ICS Device,0.3441230352
+moxa,uc 8580 t lx_firmware,Other ICS Device,0.36483894720000004
+moxa,vport_06ec 2v26m_firmware,Other ICS Device,0.5063319072000001
+moxa,vport_461_firmware,Other ICS Device,0.45753120000000014
+moxa,wac 2004_firmware,Other ICS Device,0.5623947504000001
+mozilla,firefox,Other ICS Device,0.4711881888000002
+mozilla,nss,Other ICS Device,0.5945537808000001
+mozilla,thunderbird,Other ICS Device,0.45753120000000014
+mozilla,webthings_gateway,Other ICS Device,0.3966840864
+mysyngeryss,husky_rtu_6049 e70_firmware,SCADA Server,0.73159776144
+mz automation,libiec61850,Other ICS Device,0.5203868544000001
+ncsist,mobile_device_manager,Other ICS Device,0.38264546880000005
+netapp,active_iq_unified_manager,Other ICS Device,0.34776000000000007
+netapp,ontap,Other ICS Device,0.2664144
+netapp,virtual_desktop_service,Other ICS Device,0.5561529120000002
+netentsec,application_security_gateway,Other ICS Device,0.6048
+netentsec,application_security_gateway_firmware,Other ICS Device,0.47576531520000015
+netentsec,ns asg_firmware,Other ICS Device,0.47968169760000007
+ni,veristand,Other ICS Device,0.5981269392000002
+nicmx,fort validator,Other ICS Device,0.37719259200000005
+nmfc,power_line_communications,Other ICS Device,0.24133818240000002
+node opcua_project,node opcua,Gateway,0.38102400000000003
+nokia,1350_optical_management_system,Other ICS Device,0.6035882832
+northgrid,proself,Other ICS Device,0.5300657712
+nvidia,bmc,Other ICS Device,0.3679355232
+nvidia,sbios,Other ICS Device,0.35679631680000007
+octobercms,october,Other ICS Device,0.3112651584000001
+oisf,suricata,Other ICS Device,0.4757994864
+okfn,ckan,Other ICS Device,0.37781704800000004
+okta,access_gateway,Other ICS Device,0.4838445360000001
+omron,automation_software_sysmac_studio,Other ICS Device,0.37285920000000006
+omron,cj1g cpu45p_firmware,Other ICS Device,0.43424640000000003
+omron,cj2m cpu35_firmware,Other ICS Device,0.4273988544000001
+omron,cp1l el20dr d_firmware,Other ICS Device,0.5672745792000001
+omron,cs1w eip21_firmware,Other ICS Device,0.5756952096000002
+omron,cx drive,Other ICS Device,0.37476220320000003
+omron,cx motion mch_firmware,Other ICS Device,0.3371953536
+omron,cx motion_pro,Other ICS Device,0.25034970240000004
+omron,cx one,Other ICS Device,0.5379118416
+omron,cx position,Other ICS Device,0.4697599536
+omron,cx programmer,Other ICS Device,0.47983168800000014
+omron,cx supervisor,Other ICS Device,0.3296160000000001
+omron,nj101 1000_firmware,Other ICS Device,0.4212410832
+omron,nx701 1600_firmware,Other ICS Device,0.49963283999999997
+omron,plc_cj1_firmware,Other ICS Device,0.47732781600000007
+omron,sysmac_cj2h cpu64 eip_firmware,Other ICS Device,0.38102400000000003
+omron,sysmac_cj2h cpu64_firmware,Other ICS Device,0.4543814016
+omron,sysmac_cs1_firmware,Other ICS Device,0.45797996160000015
+omron,sysmac_studio,Other ICS Device,0.37285920000000006
+onlyoffice,workspace,Other ICS Device,0.34384875840000007
+opc_ua_stack_project,opc_ua_stack,Gateway,0.4433129568000001
+opcfoundation,ua .net legacy,Other ICS Device,0.4233451824
+opcfoundation,ua .netstandard,Other ICS Device,0.38102400000000003
+opcfoundation,ua java,Other ICS Device,0.49189563360000005
+opcfoundation,ua_.net_standard_stack,Other ICS Device,0.5057903088000001
+opcfoundation,ua_java_legacy,Other ICS Device,0.42593826240000005
+openatom,openharmony,Other ICS Device,0.3209150448000001
+openbsd,openssh,Other ICS Device,0.4642771392
+openkm,openkm,Other ICS Device,0.3406269888000001
+opennds,opennds,Other ICS Device,0.45753120000000014
+openplcproject,openplc_v3_firmware,Other ICS Device,0.5817655872
+openssl,openssl,Other ICS Device,0.5058764928
+opentext,opentext_extended_ecm,Other ICS Device,0.46294748640000005
+opsramp,gateway,Other ICS Device,0.45753120000000014
+opswat,metadefender,Other ICS Device,0.6048
+oracle,bi_publisher,Other ICS Device,0.3755768688
+oracle,cloud_infrastructure_storage_gateway,Other ICS Device,0.5879405952000001
+oracle,customer_relationship_management_gateway_for_mobile_devices,Other ICS Device,0.5532655968
+oracle,database,Other ICS Device,0.3420791136000001
+oracle,database_server,Other ICS Device,0.35676305280000004
+oracle,enterprise_manager_base_platform,Other ICS Device,0.41647314240000005
+oracle,hospitality_cruise_materials_management,Other ICS Device,0.30176979840000007
+oracle,peoplesoft_enterprise,Other ICS Device,0.34457058720000006
+oracle,peoplesoft_enterprise_hcm_candidate_gateway,Other ICS Device,0.43704662400000005
+oracle,peoplesoft_enterprise_human_capital_management_candidate_gateway,Other ICS Device,0.4368990528
+oracle,primavera_gateway,Other ICS Device,0.35253398880000003
+oracle,secure_global_desktop,Other ICS Device,0.5974492608000002
+oracle,storage_cloud_software_appliance,Other ICS Device,0.5890582656000001
+outbackpower,mojave_inverter_oghi8048a_firmware,Other ICS Device,0.37773449280000004
+ovarro,twinsoft,Other ICS Device,0.45753120000000014
+ozeki,ozeki_ng_sms_gateway,Other ICS Device,0.5336591904000001
+palletsprojects,quart,Other ICS Device,0.48571881120000004
+paloaltonetworks,globalprotect,Other ICS Device,0.28194082560000006
+paloaltonetworks,pan os,Other ICS Device,0.6048
+papaki,piraeus_bank_woocommerce_payment_gateway,Other ICS Device,0.5514917184000001
+payflex,payment_gateway,Other ICS Device,0.30784320000000004
+payhere,payhere_payment_gateway,Other ICS Device,0.4534714800000001
+payplus,payplus_payment_gateway,Other ICS Device,0.6048
+paytm,payment_gateway,Other ICS Device,0.45753120000000014
+pcs,dexicon_enterprise,Other ICS Device,0.3818961216
+pepperl fuchs,wha gw f2d2 0 as z2 eth_firmware,Other ICS Device,0.5270447952000001
+pexip,pexip_infinity,Other ICS Device,0.38102400000000003
+phoenixcontact,automationworx_software_suite,Other ICS Device,0.4013050608
+phoenixcontact,fl_comserver_uni_232\/422\/485_firmware,Other ICS Device,0.38102400000000003
+phoenixcontact,ilc1x0_firmware,Other ICS Device,0.495722808
+pimcore,pimcore,Other ICS Device,0.37160333280000013
+progress,moveit_gateway,Other ICS Device,0.5237489376
+progress,moveit_transfer,Other ICS Device,0.29235971520000004
+progress,openedge,Other ICS Device,0.6048
+prosysopc,ua_modbus_server,Other ICS Device,0.38102400000000003
+proxmox,backup_server,Other ICS Device,0.5373741744000001
+proxmox,proxmox_mail_gateway,Other ICS Device,0.5196813552000001
+pulsesecure,pulse_connect_secure,Other ICS Device,0.43424640000000003
+pulsesecure,pulse_secure_desktop_client,Other ICS Device,0.5425730352000001
+puppet,puppet,Other ICS Device,0.36182401920000007
+qualcomm,agatti_firmware,Other ICS Device,0.5260117968000002
+qualcomm,apq8009_firmware,Other ICS Device,0.3636744048000001
+quest analytics,iqcrm,Other ICS Device,0.5720479632000002
+ramp,altimeter,Other ICS Device,0.31116960000000005
+rapidscada,rapid_scada,Data Historian,0.6076949961600001
+redhat,3scale_api_management,Other ICS Device,0.38102400000000003
+redhat,ansible,Other ICS Device,0.24312960000000006
+redhat,ansible_automation_platform,Other ICS Device,0.40889560320000007
+redhat,ansible_engine,Other ICS Device,0.35955360000000003
+redhat,ceph,Other ICS Device,0.4360093920000001
+redhat,ceph_storage,Other ICS Device,0.34776000000000007
+redhat,coreos installer,Other ICS Device,0.296352
+redhat,etcd,Other ICS Device,0.46366568640000005
+redhat,ignition,Other ICS Device,0.34776000000000007
+redhat,openshift_container_platform,Other ICS Device,0.23647680000000004
+redlion,crimson,Other ICS Device,0.39204194400000003
+redlioncontrols,st ipm 6350_firmware,Other ICS Device,0.5080316976000001
+revolut,revolut_gateway_for_woocommerce,Other ICS Device,0.36228941280000004
+rockwellautomation,1756 en2f_series_a_firmware,Other ICS Device,0.6028029504000002
+rockwellautomation,1756 en2t_series_a_firmware,Other ICS Device,0.45753120000000014
+rockwellautomation,1756 en4tr_firmware,Other ICS Device,0.4666252752000001
+rockwellautomation,2800c_optixpanel_compact_firmware,Other ICS Device,0.42108988320000007
+rockwellautomation,5015 aenftxt_firmware,Other ICS Device,0.4428980640000001
+rockwellautomation,allen bradley_flex_io_1794 aent\/b_firmware,Other ICS Device,0.4070945088000001
+rockwellautomation,arena,Other ICS Device,0.5276756016000002
+rockwellautomation,armor_compact_guardlogix_5370_firmware,Other ICS Device,0.41761440000000005
+rockwellautomation,armor_powerflex_firmware,Other ICS Device,0.38102400000000003
+rockwellautomation,armorstart_st_284ee_firmware,Other ICS Device,0.373666608
+rockwellautomation,compactlogix_5370_firmware,Other ICS Device,0.466606224
+rockwellautomation,compactlogix_5380_firmware,Other ICS Device,0.41761440000000005
+rockwellautomation,compactlogix_5480_firmware,Other ICS Device,0.4597477920000001
+rockwellautomation,connected_components_workbench,Other ICS Device,0.437583384
+rockwellautomation,controllogix_5570_controller_firmware,Other ICS Device,0.45912545280000006
+rockwellautomation,controllogix_5580_firmware,Other ICS Device,0.3735353664
+rockwellautomation,drivetools_add on_profiles,Other ICS Device,0.32027788800000007
+rockwellautomation,enhanced_him,Other ICS Device,0.4711848624
+rockwellautomation,factorytalk_alarms_and_events,Other ICS Device,0.4085233488000001
+rockwellautomation,factorytalk_assetcentre,Other ICS Device,0.45753120000000014
+rockwellautomation,factorytalk_linx,Other ICS Device,0.43424640000000003
+rockwellautomation,factorytalk_policy_manager,Other ICS Device,0.3336554592
+rockwellautomation,factorytalk_services_platform,Other ICS Device,0.5761355040000001
+rockwellautomation,factorytalk_transaction_manager,Other ICS Device,0.40107221280000005
+rockwellautomation,factorytalk_vantagepoint,Other ICS Device,0.4970216160000001
+rockwellautomation,factorytalk_view,Other ICS Device,0.4945307472000001
+rockwellautomation,flex_i\/o_1794 aent,Other ICS Device,0.35459575200000004
+rockwellautomation,flex_i\/o_1794 aent\/b_firmware,Other ICS Device,0.35459575200000004
+rockwellautomation,flex_io_1794 aent\/b_firmware,Other ICS Device,0.4070945088000001
+rockwellautomation,isagraf_workbench,Other ICS Device,0.37285920000000006
+rockwellautomation,kinetix_5500_firmware,Other ICS Device,0.43424640000000003
+rockwellautomation,kinetix_5700_firmware,Other ICS Device,0.38102400000000003
+rockwellautomation,micrologix_1100_b_firmware,Other ICS Device,0.3760982064
+rockwellautomation,micrologix_1100_firmware,Other ICS Device,0.5456702160000001
+rockwellautomation,micrologix_1400_a_firmware,Other ICS Device,0.46821045600000016
+rockwellautomation,micrologix_1400_firmware,Other ICS Device,0.51530472
+rockwellautomation,modbus_tcp_server_add_on_instructions,Other ICS Device,0.2745792000000001
+rockwellautomation,pavilion8,Other ICS Device,0.5631150672000003
+rockwellautomation,powerflex_527_ac_drives_firmware,Other ICS Device,0.40632611040000005
+rockwellautomation,powermonitor_1000_firmware,Other ICS Device,0.4242672000000001
+rockwellautomation,rslinx,Other ICS Device,0.38102400000000003
+rockwellautomation,rslinx_classic,Other ICS Device,0.37285920000000006
+rockwellautomation,studio_5000_logix_designer,Other ICS Device,0.2549083824
+rockwellautomation,studio_5000_logix_emulate,Other ICS Device,0.3747410352
+rockwellautomation,thinmanager,Other ICS Device,0.6048
+rockwellautomation,thinmanager_thinserver,Other ICS Device,0.6048
+royal elementor addons,royal_elementor_addons,Other ICS Device,0.35962799040000004
+rtautomation,460_series_firmware,Other ICS Device,0.3361076208
+ruckuswireless,r310_firmware,Other ICS Device,0.45753120000000014
+ruijie,nbr2600s_firmware,Other ICS Device,0.254141496
+ruijie,nbr3000d e_firmware,Other ICS Device,0.40137491520000007
+ruijienetworks,rg eg350_firmware,Other ICS Device,0.490690872
+ruijienetworks,rg nbr2100g e_firmware,Other ICS Device,0.5870560752000001
+s3india,husky_rtu_6049 e70_firmware,Other ICS Device,0.32109436800000013
+sae it,net line_fw 50_firmware,Other ICS Device,0.43424640000000003
+saleswonder,webinar_ignition,Other ICS Device,0.27703287360000006
+samsung,knox_cloud_services,Other ICS Device,0.4298839776000001
+sangoma,restapps,Other ICS Device,0.45753120000000014
+sap,graphical_user_interface,Other ICS Device,0.31090348800000006
+sap,netweaver_abap,Other ICS Device,0.43625554560000007
+sap,netweaver_application_server_java,Other ICS Device,0.21856111200000003
+sap,netweaver_master_data_management,Other ICS Device,0.3939047280000001
+sas,environment_manager,Other ICS Device,0.3984643152000001
+sas,go_rpm_utils,Other ICS Device,0.45722880000000005
+sas,integration_technologies,Other ICS Device,0.3208476096
+sas,sas\/intrnet,Other ICS Device,0.536058432
+sas,visual_analytics,Other ICS Device,0.3857000112000001
+sas,web_administration_interface,Other ICS Device,0.39161435040000003
+sas,web_report_studio,Other ICS Device,0.43466794560000005
+scada lts,scada lts,Other ICS Device,0.4242672000000001
+schneider electric,140noe77101_firmware,PLC,0.5787679060800001
+schneider electric,5500ac2_firmware,PLC,0.6086106734400002
+schneider electric,accusine_pcsp_pfvp_firmware,PLC,0.5671494561600001
+schneider electric,accutech_manager,PLC,0.44995982976000004
+schneider electric,acti9_powertag_link_c_\(a9xelc10 a\)_firmware,PLC,0.42188340096000004
+schneider electric,acti9_smartlink_si_d_firmware,PLC,0.6776589960000002
+schneider electric,andover_continuum_9680_firmware,PLC,0.6760560139200001
+schneider electric,apc_easy_ups_online_monitoring_software,PLC,0.7348885891200002
+schneider electric,apc_easy_ups_online_software,PLC,0.6870393129600002
+schneider electric,c bus_toolkit,PLC,0.7057548187200001
+schneider electric,c gate_server,PLC,0.45985968000000005
+schneider electric,canbrass,PLC,0.5723373297600001
+schneider electric,clearscada,PLC,0.5697557006400001
+schneider electric,conext_combox_firmware,PLC,0.5960139494400003
+schneider electric,connexium_network_manager,PLC,0.5642884800000002
+schneider electric,custom_reports,PLC,0.6762040790400001
+schneider electric,data_center_expert,PLC,0.6418235073600002
+schneider electric,easergy_builder,PLC,0.5375942409600001
+schneider electric,easergy_builder_installer,PLC,0.4147315200000001
+schneider electric,easergy_p141_firmware,PLC,0.6572013940800002
+schneider electric,easergy_p3_firmware,PLC,0.49424621904000016
+schneider electric,easergy_p5_firmware,PLC,0.7144231550400001
+schneider electric,easergy_studio,PLC,0.49826859264000006
+schneider electric,easergy_t300_firmware,PLC,0.7106428324800003
+schneider electric,easy_ups_online_monitoring_software,PLC,0.4111018732800001
+schneider electric,eb450_firmware,PLC,0.4505841648000001
+schneider electric,ecostruxure_building_operation,HMI/ES,0.4592866118400001
+schneider electric,ecostruxure_control_expert,HMI/ES,0.6526536912000002
+schneider electric,ecostruxure_cybersecurity_admin_expert,HMI/ES,0.4313521900800001
+schneider electric,ecostruxure_energy_expert,HMI/ES,0.5566818096000002
+schneider electric,ecostruxure_foxboro_dcs_control_core_services,HMI/ES,0.45105276384000004
+schneider electric,ecostruxure_geo_scada_expert_2019,HMI/ES,0.49633978464
+schneider electric,ecostruxure_it_gateway,HMI/ES,0.5185353600000002
+schneider electric,ecostruxure_machine_expert,HMI/ES,0.6120451411200002
+schneider electric,ecostruxure_machine_expert_ _hvac,HMI/ES,0.4517776166400001
+schneider electric,ecostruxure_operator_terminal_expert,HMI/ES,0.6515573299200003
+schneider electric,ecostruxure_power_build_ _rapsody,HMI/ES,0.55389241152
+schneider electric,ecostruxure_power_commission,HMI/ES,0.5185353600000002
+schneider electric,ecostruxure_power_monitoring_expert,HMI/ES,0.6017525740800002
+schneider electric,enterprise_server_installer,PLC,0.41766932592000006
+schneider electric,evc1s22p4_firmware,PLC,0.5232628800000001
+schneider electric,evlink_city_evc1s22p4_firmware,PLC,0.6782803473600002
+schneider electric,evlink_home_firmware,PLC,0.4564705924800001
+schneider electric,foxrtu_station,PLC,0.45985968000000005
+schneider electric,galaxy_vl_firmware,PLC,0.4051121356800001
+schneider electric,geo_scada_mobile,PLC,0.4865307955200001
+schneider electric,gp pro_ex,PLC,0.4493645856000001
+schneider electric,gp pro_ex_firmware,PLC,0.5003385206400001
+schneider electric,guicon,PLC,0.45985968000000005
+schneider electric,hmibmuhi29d2801_firmware,PLC,0.45985968000000005
+schneider electric,hmibscea53d1edb_firmware,PLC,0.5135510016000001
+schneider electric,igss_dashboard,PLC,0.6245778369600001
+schneider electric,insighthome_firmware,PLC,0.5397182481600001
+schneider electric,interactive_graphical_scada_system,PLC,0.7303537684800002
+schneider electric,interactive_graphical_scada_system_data_collector,PLC,0.6842249568000001
+schneider electric,interactive_graphical_scada_system_data_server,PLC,0.7312440240000002
+schneider electric,ion8650_firmware,PLC,0.38725965936000006
+schneider electric,mcsesp083f23g0_firmware,PLC,0.7159582584000003
+schneider electric,merten_instabus_tastermodul_1fach_system_m_firmware,PLC,0.52040302272
+schneider electric,modbus_driver_suite,PLC,0.4290975662400001
+schneider electric,modicon_m218_firmware,PLC,0.5787679060800001
+schneider electric,modicon_m221_firmware,PLC,0.4161010291200001
+schneider electric,modicon_m241_firmware,PLC,0.5800967625600001
+schneider electric,modicon_m258_firmware,PLC,0.48659270688000006
+schneider electric,modicon_m340_bmx_p34 2010_firmware,PLC,0.54854621136
+schneider electric,modicon_m340_bmxp341000,PLC,0.5699619475200001
+schneider electric,modicon_m340_bmxp341000_firmware,PLC,0.6397408987200003
+schneider electric,modicon_m340_bmxp342020_firmware,PLC,0.5232628800000001
+schneider electric,modicon_m340_bmxp3420302_firmware,PLC,0.6203197526400003
+schneider electric,modicon_m340_firmware,PLC,0.4511656094400001
+schneider electric,modicon_m580_bmep584040_firmware,PLC,0.55978797168
+schneider electric,modicon_m580_firmware,PLC,0.4613272776000001
+schneider electric,modicon_tsxety4103_firmware,PLC,0.6631687540800002
+schneider electric,modicon_x80_bmxnor0200h_rtu_firmware,PLC,0.37967328000000006
+schneider electric,mtn6501 0001_firmware,PLC,0.6905246241600002
+schneider electric,netbotz_355_firmware,PLC,0.46992960000000006
+schneider electric,network_management_card_2_firmware,PLC,0.4124937600000001
+schneider electric,opc_factory_server,Gateway,0.260832096
+schneider electric,opc_ua_module_for_m580_firmware,Gateway,0.47832271200000004
+schneider electric,operator_terminal_expert_runtime,PLC,0.4230772459200001
+schneider electric,os_loader,PLC,0.6677643672000002
+schneider electric,pmepxm0100_prosoft_configurator,PLC,0.49139978832000014
+schneider electric,powerlogic_egx100_firmware,PLC,0.6790975027200002
+schneider electric,powerlogic_hdpm6000_firmware,PLC,0.7029412084800002
+schneider electric,powerlogic_ion7400_firmware,PLC,0.7186133606400003
+schneider electric,powerlogic_ion8650_firmware,PLC,0.60127753392
+schneider electric,powerlogic_ion9000_firmware,PLC,0.5642884800000002
+schneider electric,powerlogic_ion_setup_firmware,PLC,0.6389047224000001
+schneider electric,powerlogic_p5_firmware,PLC,0.42635295360000003
+schneider electric,powerlogic_pm5341_firmware,PLC,0.5428287345600001
+schneider electric,powerlogic_pm5560_firmware,PLC,0.6246718228800002
+schneider electric,pro face_gp pro_ex,PLC,0.34212739680000004
+schneider electric,rack_power_distribution_unit_with_network_management_card_2_firmware,PLC,0.5788022184000002
+schneider electric,ritto_wiser_door,PLC,0.45165456000000015
+schneider electric,sage_rtu_firmware,PLC,0.6332002992000001
+schneider electric,scadapack_312e_firmware,PLC,0.46992960000000006
+schneider electric,scadapack_7x_remote_connect,PLC,0.6079676904000002
+schneider electric,scadapack_workbench,PLC,0.42031025568000013
+schneider electric,scadapack_x70_security_administrator,PLC,0.5558793508800001
+schneider electric,smt_series_1015_ups_firmware,PLC,0.7443916099200002
+schneider electric,software_update,PLC,0.29575728
+schneider electric,software_update_utility,PLC,0.41126299200000005
+schneider electric,somove,PLC,0.4343085633600001
+schneider electric,sosafe_configurable,PLC,0.5445592689600002
+schneider electric,spacelogic_as b_firmware,PLC,0.37776820032000014
+schneider electric,spacelogic_c bus_home_controller_firmware,PLC,0.7182523353600002
+schneider electric,spacelogic_c bus_toolkit,PLC,0.7459200000000001
+schneider electric,spacelynk_firmware,PLC,0.6382475668800002
+schneider electric,struxureware_data_center_expert,PLC,0.7223023080000003
+schneider electric,t200i_firmware,PLC,0.6124405996800002
+schneider electric,tricon_tcm_4351_firmware,PLC,0.5431367995200002
+schneider electric,triconex_model_3009_mp_firmware,Safety Controller,0.35659008
+schneider electric,tristation_1131,PLC,0.6344280835200002
+schneider electric,ulti_zigbee_installation_toolkit,PLC,0.4879771344
+schneider electric,vijeo_designer,PLC,0.6042448036800001
+schneider electric,webreports,PLC,0.6680690755200003
+schneider electric,whc 5918a_firmware,PLC,0.5309395156800001
+schneider electric,wiser_smart_eer21000_firmware,PLC,0.6656470732800003
+schneider electric,zelio_soft_2,PLC,0.42763034160000013
+school_dormitory_management_system_project,school_dormitory_management_system,SCADA Server,0.75553080624
+se,ecostruxure_operator_terminal_expert,Other ICS Device,0.4263401520000001
+sealevel,seaconnect_370w_firmware,Other ICS Device,0.3776976
+secheron,sepcos_control_and_protection_relay_firmware,Other ICS Device,0.38102400000000003
+selinc,sel 2241_rtac_module_firmware,Comms Gateway,0.7012099584000001
+selinc,sel 3350_firmware,Comms Gateway,0.6254398080000002
+selinc,sel 411l_firmware,Comms Gateway,0.4971456000000001
+selinc,sel 451_firmware,Comms Gateway,0.6100416000000002
+selinc,sel 5030_acselerator_quickset,Comms Gateway,0.4825755648000001
+selinc,sel 5033_acselerator_real time_automation_controller,Comms Gateway,0.34079351040000005
+selinc,sel 5036_acselerator_bay_screen_builder,Comms Gateway,0.5422749696000001
+selinc,sel 5037_sel_grid_configurator,Comms Gateway,0.6157682496000001
+serenityos,serenityos,Other ICS Device,0.46611724320000003
+siedle,sg_150 0_firmware,Other ICS Device,0.5459218128000001
+siemens,6bk1602 0aa12 0tp0_firmware,HMI/ES,0.68544
+siemens,6ed1052 1md08 0ba1_firmware,HMI/ES,0.38487456000000003
+siemens,6es7412 2ek07 0ab0_firmware,HMI/ES,0.4318272
+siemens,6gk1411 1ac00_firmware,HMI/ES,0.53631190368
+siemens,6gk5204 0ba00 2mb2_firmware,HMI/ES,0.6524689651200001
+siemens,6gk5205 3bb00 2ab2_firmware,HMI/ES,0.59844498336
+siemens,6gk5622 2gs00 2ac2_firmware,HMI/ES,0.48120595488000006
+siemens,6gk6108 4am00 2ba2_firmware,HMI/ES,0.5178893328
+siemens,6gk7243 8rx30 0xe0_firmware,HMI/ES,0.43464367296000006
+siemens,6md85_firmware,HMI/ES,0.5254833225600001
+siemens,7kg8500 0aa00 0aa0_firmware,HMI/ES,0.6633654048000002
+siemens,7kg9501 0aa01 2aa1_firmware,HMI/ES,0.6171784012800001
+siemens,apogee_mbc_\(ppc\)_\(p2_ethernet\)_firmware,HMI/ES,0.6643873958400001
+siemens,automation_license_manager,HMI/ES,0.6435613296000001
+siemens,biograph_horizon_pet\/ct_systems_firmware,HMI/ES,0.6611630860800002
+siemens,brownfield_connectivity_gateway,HMI/ES,0.5765725929600001
+siemens,capital_vstar,HMI/ES,0.6356828822400001
+siemens,cerberus_dms,HMI/ES,0.6517968912000001
+siemens,cerberus_pro_en_engineering_tool,HMI/ES,0.6793574054400001
+siemens,climatix_pol908_firmware,HMI/ES,0.45894834720000005
+siemens,climatix_pol909_firmware,HMI/ES,0.47801591712
+siemens,comos,HMI/ES,0.5932167897600001
+siemens,coreshield_one way_gateway,HMI/ES,0.38095761312000004
+siemens,cp 8000_master_module_with_i\/o_ 25\/\+70_firmware,HMI/ES,0.5444610998400001
+siemens,cp 8021_master_module_firmware,HMI/ES,0.4318272
+siemens,cp 8031_firmware,HMI/ES,0.6531358982400002
+siemens,cp 8050_firmware,HMI/ES,0.5456150380800001
+siemens,cpci85_firmware,HMI/ES,0.5829828278400001
+siemens,cpu_1504d_tf_firmware,HMI/ES,0.34888896
+siemens,dca_vantage_analyzer_firmware,HMI/ES,0.44860265856000003
+siemens,desigo_cc,HMI/ES,0.67913155296
+siemens,desigo_consumption_control,HMI/ES,0.5185353600000002
+siemens,desigo_dxr2_firmware,HMI/ES,0.5325382137600001
+siemens,desigo_insight,HMI/ES,0.42644375424000003
+siemens,desigo_pxc5_firmware,HMI/ES,0.6231636633600001
+siemens,desigo_pxm30 1_firmware,HMI/ES,0.5774862844800002
+siemens,digsi_4,HMI/ES,0.3892870800000001
+siemens,dk_standard_ethernet_controller_evaluation_kit_firmware,HMI/ES,0.4318272
+siemens,efibootguard,HMI/ES,0.3157393680000001
+siemens,en100_ethernet_module_dnp3_firmware,HMI/ES,0.5410315008000001
+siemens,en100_ethernet_module_dnp3_ip_firmware,HMI/ES,0.5693641632
+siemens,industrial_edge_management,HMI/ES,0.6166656921600001
+siemens,intermesh_7177_hybrid_2.0_subscriber,HMI/ES,0.6642506505600001
+siemens,jt2go,HMI/ES,0.6323739206400002
+siemens,jt_open,HMI/ES,0.43246260288000005
+siemens,jt_open_toolkit,HMI/ES,0.5407984512000001
+siemens,jt_utilities,HMI/ES,0.35587119456
+siemens,license_management_utility,HMI/ES,0.4225737600000001
+siemens,location_intelligence,HMI/ES,0.6413710060800002
+siemens,logo\!_8_bm_firmware,HMI/ES,0.68544
+siemens,logo\!_cmr2020_firmware,HMI/ES,0.36386376768000006
+siemens,logo\!_soft_comfort,HMI/ES,0.4451932800000001
+siemens,medicalis_workflow_orchestrator,HMI/ES,0.3882938774400001
+siemens,mendix,HMI/ES,0.4841948160000001
+siemens,mendix_email_connector,HMI/ES,0.5128225603200001
+siemens,mendix_workflow_commons,HMI/ES,0.5159365142400001
+siemens,modelsim,HMI/ES,0.4187733379200001
+siemens,nucleus_net,HMI/ES,0.6694397740800002
+siemens,nx_1980,HMI/ES,0.51344219808
+siemens,omnivise_t3000_application_server,HMI/ES,0.6292102723200002
+siemens,opcenter_execution_core,Gateway,0.5033254464000001
+siemens,opcenter_execution_discrete,Gateway,0.4891649616
+siemens,opcenter_quality,Gateway,0.5328659952000001
+siemens,openpcs_7,HMI/ES,0.37946164032000007
+siemens,openv2g,HMI/ES,0.3237240585600001
+siemens,ozw672_firmware,HMI/ES,0.35265888000000006
+siemens,pads_viewer,HMI/ES,0.5094693878400001
+siemens,parasolid,HMI/ES,0.5094693878400001
+siemens,plm_help_server,HMI/ES,0.49066125695999996
+siemens,polarion_alm,HMI/ES,0.5437036886400002
+siemens,polarion_subversion_webclient,HMI/ES,0.49022120448000006
+siemens,ps\/iges_parasolid_translator,HMI/ES,0.4663802304000001
+siemens,pxc00 e96.a_firmware,HMI/ES,0.43857981216
+siemens,q200_firmware,HMI/ES,0.49890572928000015
+siemens,qms_automotive,HMI/ES,0.5101812172800001
+siemens,ruggedcom_crossbow,HMI/ES,0.6427840406400002
+siemens,ruggedcom_rm1224_firmware,HMI/ES,0.5804216812800002
+siemens,ruggedcom_rm1224_lte\(4g\)_eu_firmware,HMI/ES,0.64288719936
+siemens,ruggedcom_ros,HMI/ES,0.61422861024
+siemens,ruggedcom_ros_i800,HMI/ES,0.57618977472
+siemens,ruggedcom_rox_mx5000_firmware,HMI/ES,0.5373890726400001
+siemens,ruggedcom_rox_rx1400_firmware,HMI/ES,0.61482494304
+siemens,ruggedcom_rox_rx1500_firmware,HMI/ES,0.5425590038400001
+siemens,rwg1.m12_firmware,HMI/ES,0.3005633836800001
+siemens,scalance_lpe9403_firmware,HMI/ES,0.65045719872
+siemens,scalance_m 800_firmware,HMI/ES,0.58927825152
+siemens,scalance_w1788 2ia_m12_firmware,HMI/ES,0.5330618899200001
+siemens,scalance_w780_firmware,HMI/ES,0.2951487504
+siemens,scalance_x200 4p_irt_firmware,HMI/ES,0.6417236649600002
+siemens,scalance_x200 4pirt_firmware,HMI/ES,0.5185353600000002
+siemens,scalance_x204 2_firmware,HMI/ES,0.4904323200000001
+siemens,scalance_x302 7eec_firmware,HMI/ES,0.6641019100800002
+siemens,scalance_xb208_\(e\/ip\)_firmware,HMI/ES,0.4476697747200001
+siemens,scalance_xm 400_firmware,HMI/ES,0.4318272
+siemens,scalance_xm408 4c_firmware,HMI/ES,0.4318272
+siemens,scalance_xr324 12m_firmware,HMI/ES,0.3843974937600001
+siemens,sentron_powermanager_3,HMI/ES,0.3837788841600001
+siemens,sicam_a8000_cp 8000_firmware,HMI/ES,0.55178159904
+siemens,sicam_a8000_cp 8031_firmware,HMI/ES,0.5226692486400001
+siemens,sicam_a8000_cp 8050_firmware,HMI/ES,0.4205174400000001
+siemens,sicam_a8000_firmware,HMI/ES,0.6078447648
+siemens,sicam_gridedge_essential,HMI/ES,0.6280059542400002
+siemens,sicam_gridedge_essential_arm,HMI/ES,0.35411509728000007
+siemens,sicam_mmu_firmware,HMI/ES,0.5185353600000002
+siemens,sicam_pas\/pqs,HMI/ES,0.6086504995200002
+siemens,sicam_pq_analyzer_firmware,HMI/ES,0.5479445059200001
+siemens,sicam_toolbox_ii,HMI/ES,0.4412931264
+siemens,siemens_opc_ua_modeling_editor,Gateway,0.3793771296000001
+siemens,simaris_configuration,HMI/ES,0.38817632448000006
+siemens,simatic_automatic_tool,HMI/ES,0.3572797737600001
+siemens,simatic_batch,HMI/ES,0.53248097952
+siemens,simatic_cfu_diq_firmware,HMI/ES,0.44715226752000004
+siemens,simatic_cloud_connect_7_cc712_firmware,HMI/ES,0.4318272
+siemens,simatic_cn_4100,HMI/ES,0.6392331187200001
+siemens,simatic_cn_4100_firmware,HMI/ES,0.6368824022400001
+siemens,simatic_cp_1242 7_v2_firmware,HMI/ES,0.6348044908800001
+siemens,simatic_cp_1543 1_firmware,HMI/ES,0.5025532982400001
+siemens,simatic_cp_1604_firmware,HMI/ES,0.3811046400000001
+siemens,simatic_cp_343 1_firmware,HMI/ES,0.5067204307200001
+siemens,simatic_cp_442 1_rna_firmware,HMI/ES,0.43001421120000005
+siemens,simatic_drive_controller_cpu_1504d_tf_firmware,HMI/ES,0.5584149446400002
+siemens,simatic_driver_controller_firmware,HMI/ES,0.5185353600000002
+siemens,simatic_easie_core_package,HMI/ES,0.49214592
+siemens,simatic_easie_pcs_7_skill,HMI/ES,0.4833219081600001
+siemens,simatic_energy_manager_basic,HMI/ES,0.68544
+siemens,simatic_et_200_sp_open_controller_cpu_1515sp_pc2_firmware,HMI/ES,0.43275528576
+siemens,simatic_et_200sp_open_controller_firmware,HMI/ES,0.4318272
+siemens,simatic_hmi_basic_panels_1st_generation,HMI/ES,0.33408619776000004
+siemens,simatic_hmi_basic_panels_2nd_generation_firmware,HMI/ES,0.6060115555200002
+siemens,"simatic_hmi_comfort_outdoor_panels_7\""_firmware",HMI/ES,0.5235592924800001
+siemens,simatic_hmi_comfort_panels_firmware,HMI/ES,0.5185353600000002
+siemens,simatic_hmi_united_comfort_panels_firmware,HMI/ES,0.6060115555200002
+siemens,simatic_ipc647d_firmware,HMI/ES,0.3285351619200001
+siemens,simatic_mv420_firmware,HMI/ES,0.5129243481600001
+siemens,simatic_mv440_sr_firmware,HMI/ES,0.5143997577600001
+siemens,simatic_mv540_h_firmware,HMI/ES,0.5447140272000001
+siemens,simatic_net_cp_343 1_advanced_firmware,HMI/ES,0.4318272
+siemens,simatic_net_pc_software,HMI/ES,0.47567582496000005
+siemens,simatic_pcs_7,HMI/ES,0.62543521152
+siemens,simatic_pcs_7_firmware,HMI/ES,0.4166896003200001
+siemens,simatic_pcs_firmware,HMI/ES,0.44376448032000004
+siemens,simatic_pcs_neo,HMI/ES,0.51939832896
+siemens,simatic_process_control_system_neo,HMI/ES,0.43784364960000005
+siemens,simatic_process_historian_2013,HMI/ES,0.4544467200000001
+siemens,simatic_rf166c_firmware,HMI/ES,0.526409352
+siemens,simatic_rf360r_firmware,HMI/ES,0.52592680224
+siemens,simatic_rtls_locating_manager,HMI/ES,0.4225737600000001
+siemens,simatic_s7 1200_cpu_firmware,HMI/ES,0.46986158016000007
+siemens,simatic_s7 1500_software_controller,HMI/ES,0.43289648640000006
+siemens,simatic_s7 200_smart_sr_cpu_firmware,HMI/ES,0.5143997577600001
+siemens,simatic_s7 300_cpu_312_firmware,HMI/ES,0.3734520451200001
+siemens,simatic_s7 400h_v6_firmware,HMI/ES,0.52226860896
+siemens,simatic_s7 plcsim,HMI/ES,0.3084181833600001
+siemens,simatic_s7 plcsim_advanced_firmware,HMI/ES,0.4318272
+siemens,simatic_step_7,HMI/ES,0.38877368544000007
+siemens,simatic_wincc_oa,HMI/ES,0.43563687552
+siemens,simatic_wincc_runtime_advanced,HMI/ES,0.6507104688000002
+siemens,simcenter_amesim,HMI/ES,0.6414501744000002
+siemens,simcenter_femap,HMI/ES,0.5859788860800001
+siemens,simcenter_star ccm\+,HMI/ES,0.5074877808000001
+siemens,simcenter_star ccm\+_viewer,HMI/ES,0.5094693878400001
+siemens,simotics_connect_400_firmware,HMI/ES,0.4308689548800001
+siemens,simotion_d425 2_dp_firmware,HMI/ES,0.3112565904000001
+siemens,sinamics_sl150_firmware,HMI/ES,0.6547672454400002
+siemens,sinec_ins,HMI/ES,0.65606855328
+siemens,sinec_network_management_system,HMI/ES,0.58639392
+siemens,sinec_nms,HMI/ES,0.6326552937600001
+siemens,sinec_security_monitor,HMI/ES,0.6396951052800001
+siemens,sinec_traffic_analyzer,HMI/ES,0.5215632912
+siemens,sinema_remote_connect,HMI/ES,0.4008120681600001
+siemens,sinema_remote_connect_client,HMI/ES,0.5661823507200001
+siemens,sinema_remote_connect_server,HMI/ES,0.6593110272000002
+siemens,sinema_server,HMI/ES,0.48837600000000003
+siemens,sinumerik_808d_firmware,HMI/ES,0.45735298560000015
+siemens,sinumerik_840d_sl_firmware,HMI/ES,0.4318272
+siemens,sinumerik_analyse_mycondition_firmware,HMI/ES,0.41766600960000005
+siemens,sinumerik_edge,HMI/ES,0.4300090704
+siemens,sinumerik_mc_firmware,HMI/ES,0.37997640576
+siemens,sipass_integrated,HMI/ES,0.6219771667200001
+siemens,sipass_integrated_ac5102_\(acc g2\)_firmware,HMI/ES,0.33586560000000004
+siemens,sipass_integrated_acc ap_firmware,HMI/ES,0.4225737600000001
+siemens,siplus_tim_1531_irc_firmware,HMI/ES,0.48116825568000005
+siemens,siport,HMI/ES,0.37540383552000006
+siemens,siport_mp,HMI/ES,0.5415606604800001
+siemens,siprotec_5_6md85_firmware,Protection Relay,0.57150714096
+siemens,siprotec_5_with_cpu_variant_cp050,Protection Relay,0.7476706339200002
+siemens,siveillance_video,HMI/ES,0.6199948742400001
+siemens,siveillance_video_client,HMI/ES,0.4262819904000001
+siemens,siveillance_video_management_software_2019_r1,HMI/ES,0.55481638464
+siemens,siveillance_video_mobile_server,HMI/ES,0.6496500931200001
+siemens,siveillance_video_open_network_bridge,HMI/ES,0.5358029644800001
+siemens,software_center,HMI/ES,0.4225737600000001
+siemens,solid_edge,HMI/ES,0.5444138044800001
+siemens,solid_edge_se2020,HMI/ES,0.5319315993600001
+siemens,solid_edge_se2020_firmware,HMI/ES,0.5961148300800001
+siemens,solid_edge_se2021_firmware,HMI/ES,0.5222514729600001
+siemens,solid_edge_se2022,HMI/ES,0.42632825760000004
+siemens,solid_edge_se2023,HMI/ES,0.4548024633600001
+siemens,solid_edge_se2024,HMI/ES,0.4887536774400001
+siemens,spectrum_power_4,HMI/ES,0.5168879049600001
+siemens,spectrum_power_5,HMI/ES,0.45894834720000005
+siemens,spectrum_power_7,HMI/ES,0.42355976544000007
+siemens,star ccm\+,HMI/ES,0.39695920992000006
+siemens,syngo_dynamics_cardiovascular_imaging_and_information_system,HMI/ES,0.49318504704000005
+siemens,teamcenter,HMI/ES,0.6368776041600002
+siemens,teamcenter_active_workspace,HMI/ES,0.53746824096
+siemens,teamcenter_visualization,HMI/ES,0.5642291894400001
+siemens,tecnomatix,HMI/ES,0.4548024633600001
+siemens,tecnomatix_plant_simulation,HMI/ES,0.56787401664
+siemens,tecnomatix_robotexpert,HMI/ES,0.5019939792
+siemens,telecontrol_server_basic,HMI/ES,0.5260752000000001
+siemens,tia_administrator,HMI/ES,0.25292736000000005
+siemens,tia_multiuser_server,HMI/ES,0.3811046400000001
+siemens,tia_portal,HMI/ES,0.3746837808000001
+siemens,totally_integrated_automation_portal,HMI/ES,0.33604792703999997
+siemens,unicam_fx,HMI/ES,0.4119700032000001
+siemens,wincc,HMI/ES,0.4069080288000001
+siemens,xpedition_designer,HMI/ES,0.3943058716800001
+siemens,xpedition_layout_browser,HMI/ES,0.4225737600000001
+siemens healthineers,syngo_fastview,HMI/ES,0.4225737600000001
+silabs,unify_software_development_kit,Other ICS Device,0.3833591328000001
+silabs,z\/ip_gateway_sdk,Other ICS Device,0.49771864800000015
+siretta,quartz gold_firmware,Other ICS Device,0.5381029584000001
+siteorigin,siteorigin_widgets_bundle,Other ICS Device,0.32648041440000014
+skeepers,verified_reviews_\(avis_verifies\),Other ICS Device,0.27703287360000006
+skyhighsecurity,secure_web_gateway,Other ICS Device,0.32809492800000006
+smart hmi,webiq,Other ICS Device,0.5384440656
+smartptt,scada_server,Other ICS Device,0.5062472352000001
+smartptt,smartptt_scada,Other ICS Device,0.5129593056
+snowflake,snowflake_connector,Other ICS Device,0.2733275664
+softing,datafeed_opc_suite,Gateway,0.47514962880000006
+softing,edgeaggregator,Other ICS Device,0.42187824000000007
+softing,opc,Gateway,0.4474386
+softing,opc_ua_c\+\+_software_development_kit,Gateway,0.3963411648
+softing,secure_integration_server,Other ICS Device,0.5147138304000002
+solar log,2000_pm\+_firmware,Other ICS Device,0.34352065440000007
+solar log,solar log_250_firmware,Other ICS Device,0.5307999984000001
+solax,pocket_wifi_3_firmware,Other ICS Device,0.45753120000000014
+sophos,cloud_optix,Other ICS Device,0.3626392896000001
+spidercontrol,scadawebserver,Other ICS Device,0.33881652000000007
+splunk,splunk,Other ICS Device,0.5290890192000002
+squid cache,squid,Other ICS Device,0.4754099952000001
+starliteproject,starlite,Other ICS Device,0.47543116320000006
+sungrowpower,winet s_firmware,Other ICS Device,0.38102400000000003
+supcon,inplant_scada,Other ICS Device,0.3716610912
+swiftsensors,sg3 1010_firmware,Other ICS Device,0.6048
+swisslog healthcare,hmi 3_control_panel_firmware,Other ICS Device,0.5982984000000001
+talend,open_studio,Other ICS Device,0.45753120000000014
+talend,open_studio_for_mdm,Other ICS Device,0.25593230880000006
+tel ster,telwin_scada_webinterface,Other ICS Device,0.38102400000000003
+tenable,nessus_amazon_machine_image,Other ICS Device,0.31937582880000004
+tenda,ax3_firmware,Other ICS Device,0.6030887184000001
+tenda,it7 lcs_firmware,Other ICS Device,0.5970854736000002
+tenda,o3_firmware1.0.0.10\(2478\),Other ICS Device,0.45680241600000016
+teradici,pcoip_connection_manager_and_security_gateway,Other ICS Device,0.2290232448
+tesla,model_3_firmware,Other ICS Device,0.4061232000000001
+tesla,solarcity_solar_monitoring_gateway,Other ICS Device,0.44850788640000006
+the guild,graphql_mesh,Other ICS Device,0.4004710416000001
+the guild,graphql_mesh_cli,Other ICS Device,0.3656412144000001
+thorntech,sftp_gateway_firmware,Other ICS Device,0.5880171024
+thoughtworks,gocd,Other ICS Device,0.43677960480000005
+thrivethemes,focusblog,Other ICS Device,0.5131226016
+tianyisc,tewa 700g_firmware,Other ICS Device,0.27900482400000004
+tibco,api_exchange_gateway,Other ICS Device,0.5052057696000001
+tibco,hawk,Other ICS Device,0.4242672000000001
+tibco,partnerexpress,Other ICS Device,0.5126780736000002
+tieline,ip_audtio_gateway_firmware,Other ICS Device,0.6048
+titanhq,spamtitan,Other ICS Device,0.5029066224000001
+tranzware_payment_gateway_project,tranzware_payment_gateway,Other ICS Device,0.4435521552000001
+trianglemicroworks,dnp3_source_code_library,Other ICS Device,0.5257514304000002
+trianglemicroworks,iec_60870 6_software_library,Other ICS Device,0.36143724960000007
+trianglemicroworks,iec_61850_source_code_library,Other ICS Device,0.38102400000000003
+trianglemicroworks,scada_data_gateway,Other ICS Device,0.5021977968000001
+tripay,payment_gateway,Other ICS Device,0.3106307232
+tyk,tyk,Other ICS Device,0.59438232
+ubikasec,waap_cloud,Other ICS Device,0.4164610464000001
+ui,unifi_network_application,Other ICS Device,0.35469856800000005
+unified automation,.net_based_opc_ua_client\/server_sdk,Gateway,0.42201371520000003
+unified automation,opc_ua_c\+\+_demo_server,Gateway,0.38102400000000003
+unified automation,uagateway,Other ICS Device,0.34776000000000007
+unitronics,visilogic,Other ICS Device,0.40160352960000006
+vadesecure,secure_gateway,Other ICS Device,0.3969296352
+vanderwijk,content_blocks,Other ICS Device,0.36838247040000005
+vertigis,weboffice,Other ICS Device,0.4367043072000001
+visam,vbase_editor,Other ICS Device,0.38260524960000003
+visual_voice_mail_project,visual_voice_mail,Other ICS Device,0.45200695679999997
+vmware,spring_cloud_gateway,Other ICS Device,0.6048
+void,aural_rec_monitor,Other ICS Device,0.40073775840000003
+void,aurall_rec_monitor,Other ICS Device,0.5388547248000001
+voltronicpower,snmp_web_pro,Other ICS Device,0.5083132320000001
+wago,0852 0303_firmware,Other ICS Device,0.4773148128000001
+wago,0852 0602_firmware,Other ICS Device,0.5211706752000002
+wago,750 331_firmware,Other ICS Device,0.2945376000000001
+wago,750 352_firmware,Other ICS Device,0.38102400000000003
+wago,750 362_firmware,Other ICS Device,0.43424640000000003
+wago,750 363\/040 000_firmware,Other ICS Device,0.38102400000000003
+wago,750 8100_firmware,Other ICS Device,0.45753120000000014
+wago,750 8202_firmware,Other ICS Device,0.49977648
+wago,750 823_firmware,Other ICS Device,0.527089248
+wago,750 852_firmware,Other ICS Device,0.4043088
+wago,750 880\/040 000_firmware,Other ICS Device,0.49961772000000004
+wago,750 890\/040 000_firmware,Other ICS Device,0.4485459888000001
+wago,750 893_firmware,Other ICS Device,0.5480730864000001
+wago,751 9301_firmware,Other ICS Device,0.45753120000000014
+wago,852 111\/000 001_firmware,Other ICS Device,0.43424640000000003
+wago,compact_controller_100_firmware,Other ICS Device,0.45753120000000014
+wago,pfc100_firmware,Other ICS Device,0.31341703680000005
+wago,pfc200_firmware,Other ICS Device,0.4841898768
+wago,pfc_100_firmware,Other ICS Device,0.45753120000000014
+wago,telecontrol_configurator,Other ICS Device,0.45231782400000003
+watchguard,authentication_gateway,Other ICS Device,0.5522325984
+wavlink,wl wn533a8_firmware,Other ICS Device,0.471158856
+we con,plc_editor,Other ICS Device,0.5284222272000001
+weintek,cmt fhd_firmware,Other ICS Device,0.49932892800000006
+weintek,cmt2078x_firmware,Other ICS Device,0.4902457392000001
+wireshark,wireshark,Other ICS Device,0.4076364096
+wisdomgarden,tronclass_ilearn,Other ICS Device,0.3575396160000001
+woo myghpay payment gateway_project,woo myghpay payment gateway,Other ICS Device,0.37425659040000003
+woocommerce,stripe_payment_gateway,Other ICS Device,0.46636702560000004
+woocommerce,woocommerce,Other ICS Device,0.2912112
+wp media,search_\&_replace,Other ICS Device,0.5138211456000001
+xarrow,xarrow,Other ICS Device,0.37285920000000006
+xinje,xd5e 30r e_firmware,Other ICS Device,0.40403361600000004
+xinje,xd\/e_series_plc_program_tool,Other ICS Device,0.3562272
+yanco,woocommerce_cvr_payment_gateway,Other ICS Device,0.2661797376000001
+yanco,woocommerce_ean_payment_gateway,Other ICS Device,0.28284107040000006
+yokogawa,aw810d_firmware,Other ICS Device,0.4715764704
+yokogawa,b\/m9000_vp,Other ICS Device,0.4901024016
+yokogawa,centum_cs_3000_cp401_firmware,Other ICS Device,0.4334761872000001
+yokogawa,centum_cs_3000_firmware,Other ICS Device,0.5924009952000001
+yokogawa,centum_vp_firmware,Other ICS Device,0.5328659952000001
+yokogawa,stardom_fcj_firmware,Other ICS Device,0.46885789440000003
+yokogawa,widefield3,Other ICS Device,0.45753120000000014
+yokogawa,wtviewere_761941,Other ICS Device,0.5510260224000001
+zohocorp,manageengine_application_control_plus,Other ICS Device,0.3595729536000001
+zohocorp,manageengine_opmanager,Other ICS Device,0.43424640000000003
+zte,zxhn_f677_firmware,Other ICS Device,0.41774140800000004
+zte,zxhn_f680_firmware,Other ICS Device,0.4029244128
+zte,zxhn_h2640_firmware,Other ICS Device,0.1932336
+,,Other ICS Device,0.5853541680000001
