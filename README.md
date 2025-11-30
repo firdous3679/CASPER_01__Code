@@ -1,5 +1,5 @@
 **"Integrated Risk Scoring and Exploit Prediction for Cyber-Physical Power System Vulnerabilities"**  
-(*To appear in IET Smart Grid, 2025*)
+(*to appers in Springer Energy Informatics Journal, 2025*)
 
 ## Overview
 
