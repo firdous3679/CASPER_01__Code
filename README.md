@@ -35,4 +35,6 @@ Cyber-Physical Power Systems (CPPS) are increasingly exposed to critical softwar
 ##  Citation
 
 If you use this dataset or code in your research, please cite:
+
+
 Kausar, F., Batiste, L., Muallem, A. et al. Integrated risk scoring and exploit prediction for cyber-physical power system vulnerabilities. Energy Inform (2026). https://doi.org/10.1186/s42162-026-00640-x
